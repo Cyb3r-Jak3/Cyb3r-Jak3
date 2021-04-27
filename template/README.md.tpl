@@ -20,12 +20,6 @@
   - [CCC Discord Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot)
   - [haralyzer](https://github.com/haralyzer/haralyzer)
 
-  Projects I have recently contributed to:
-
-  {{range recentContributions 10}}
-  - [{{.Name}}]({{.URL}}) - {{.Description}}
-  {{end}}
-
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
