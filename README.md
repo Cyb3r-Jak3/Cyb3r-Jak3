@@ -26,8 +26,8 @@
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (1 week ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (2 weeks ago)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (2 weeks ago)
-- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (2 weeks ago)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image that I use for my website HTML and CSS validation.  (3 weeks ago)
+- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (3 weeks ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image that I use for my website HTML and CSS validation.  (4 weeks ago)
 
 #### 📜 My recent blog posts
 
