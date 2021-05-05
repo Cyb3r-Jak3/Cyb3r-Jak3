@@ -23,16 +23,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (2 days ago)
-- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (5 days ago)
+- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (3 days ago)
+- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (6 days ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (3 weeks ago)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (3 weeks ago)
-- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (3 weeks ago)
+- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (4 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [Switching to traefik](https://blog.jwhite.network/Traefik/) (4 months ago)
-- [Python Library Template](https://blog.jwhite.network/Python-Template/) (4 months ago)
+- [Python Library Template](https://blog.jwhite.network/Python-Template/) (5 months ago)
 - [Rebuild](https://blog.jwhite.network/Rebuild/) (10 months ago)
 - [Continuous Integration](https://blog.jwhite.network/Continuous-Integration/) (2 years ago)
 - [Cloudflare Log Analysis](https://blog.jwhite.network/LogFlare-Logs/) (2 years ago)
