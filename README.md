@@ -23,11 +23,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (4 days ago)
+- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (5 days ago)
 - [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (1 week ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (3 weeks ago)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (3 weeks ago)
-- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (4 weeks ago)
+- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (1 month ago)
 
 #### 📜 My recent blog posts
 
