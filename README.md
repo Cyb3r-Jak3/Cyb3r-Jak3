@@ -23,16 +23,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (1 day ago)
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks html5 syntax. (2 days ago)
+- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (2 days ago)
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks html5 syntax. (3 days ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (1 week ago)
 - [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (1 week ago)
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (3 weeks ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (4 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [Switching to traefik](https://blog.jwhite.network/Traefik/) (4 months ago)
 - [Python Library Template](https://blog.jwhite.network/Python-Template/) (5 months ago)
-- [Rebuild](https://blog.jwhite.network/Rebuild/) (10 months ago)
+- [Rebuild](https://blog.jwhite.network/Rebuild/) (11 months ago)
 - [Continuous Integration](https://blog.jwhite.network/Continuous-Integration/) (2 years ago)
 - [Cloudflare Log Analysis](https://blog.jwhite.network/LogFlare-Logs/) (2 years ago)
