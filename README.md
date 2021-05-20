@@ -27,11 +27,11 @@
 - [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (1 week ago)
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks html5 syntax. (1 week ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (2 weeks ago)
-- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (2 weeks ago)
+- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Switching to traefik](https://blog.jwhite.network/Traefik/) (4 months ago)
+- [Switching to traefik](https://blog.jwhite.network/Traefik/) (5 months ago)
 - [Python Library Template](https://blog.jwhite.network/Python-Template/) (5 months ago)
 - [Rebuild](https://blog.jwhite.network/Rebuild/) (11 months ago)
 - [Continuous Integration](https://blog.jwhite.network/Continuous-Integration/) (2 years ago)
