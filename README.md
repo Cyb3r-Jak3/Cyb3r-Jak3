@@ -23,10 +23,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 day ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask appications with pypy (2 days ago)
-- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (3 days ago)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image that I use for my website HTML and CSS validation.  (1 week ago)
+- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (2 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask appications with pypy (3 days ago)
+- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (4 days ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image that I use for my website HTML and CSS validation.  (2 weeks ago)
 - [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (2 weeks ago)
 
 #### 📜 My recent blog posts
