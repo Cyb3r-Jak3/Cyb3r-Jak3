@@ -20,6 +20,13 @@
   - [CCC Discord Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot)
   - [haralyzer](https://github.com/haralyzer/haralyzer)
 
+#### 🔭 Latest releases I've contributed to
+
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) ([v1.2.0](https://github.com/Cyb3r-Jak3/pypy-flask/releases/tag/v1.2.0), 1 week ago) - Docker base image for deploying flask appications with pypy
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v0.6](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v0.6), 3 weeks ago) - GitHub Action that checks html5 syntax.
+- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.0](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.0), 4 weeks ago) - Command line tool to validate HTML5 files. Great for continuous integration.
+- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) ([v1.2.0](https://github.com/Cyb3r-Jak3/simple_http_server/releases/tag/v1.2.0), 1 month ago) - Simple Go HTTP server to demo dealing with requests.
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) ([v0.1.2](https://github.com/Competitive-Cyber-Clubs/Discord-Bot/releases/tag/v0.1.2), 1 month ago) - This is the Discord bot for the Competetive Cyber Clubs Discord.
 
 #### 👷 Check out what I'm currently working on
 
