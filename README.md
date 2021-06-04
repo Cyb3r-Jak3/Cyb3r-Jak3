@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) ([v0.0.5](https://github.com/Cyb3r-Jak3/common/releases/tag/v0.0.5), 1 day ago) - Common code that I use for my programs
+- [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) ([v0.0.6](https://github.com/Cyb3r-Jak3/common/releases/tag/v0.0.6), today) - Common code that I use for my programs
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.181.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.181.0), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) ([v1.2.0](https://github.com/Cyb3r-Jak3/pypy-flask/releases/tag/v1.2.0), 1 week ago) - Docker base image for deploying flask appications with pypy
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v0.6](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v0.6), 3 weeks ago) - GitHub Action that checks html5 syntax.
