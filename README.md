@@ -22,15 +22,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.183.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.183.0), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) ([v0.0.6](https://github.com/Cyb3r-Jak3/common/releases/tag/v0.0.6), 4 days ago) - Common code that I use for my programs
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.183.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.183.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) ([v0.0.6](https://github.com/Cyb3r-Jak3/common/releases/tag/v0.0.6), 5 days ago) - Common code that I use for my programs
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) ([v1.2.0](https://github.com/Cyb3r-Jak3/pypy-flask/releases/tag/v1.2.0), 2 weeks ago) - Docker base image for deploying flask appications with pypy
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v0.6](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v0.6), 1 month ago) - GitHub Action that checks html5 syntax.
 - [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.0](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.0), 1 month ago) - Command line tool to validate HTML5 files. Great for continuous integration.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) - Common code that I use for my programs (4 days ago)
+- [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) - Common code that I use for my programs (5 days ago)
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces (1 week ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (1 week ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask appications with pypy (1 week ago)
@@ -40,6 +40,6 @@
 
 - [Switching to traefik](https://blog.jwhite.network/Traefik/) (5 months ago)
 - [Python Library Template](https://blog.jwhite.network/Python-Template/) (6 months ago)
-- [Rebuild](https://blog.jwhite.network/Rebuild/) (11 months ago)
+- [Rebuild](https://blog.jwhite.network/Rebuild/) (1 year ago)
 - [Continuous Integration](https://blog.jwhite.network/Continuous-Integration/) (2 years ago)
 - [Cloudflare Log Analysis](https://blog.jwhite.network/LogFlare-Logs/) (2 years ago)
