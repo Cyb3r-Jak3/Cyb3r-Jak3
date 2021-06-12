@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.183.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.183.0), 4 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.183.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.183.0), 5 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) ([v0.0.6](https://github.com/Cyb3r-Jak3/common/releases/tag/v0.0.6), 1 week ago) - Common code that I use for my programs
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) ([v1.2.0](https://github.com/Cyb3r-Jak3/pypy-flask/releases/tag/v1.2.0), 2 weeks ago) - Docker base image for deploying flask appications with pypy
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v0.6](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v0.6), 1 month ago) - GitHub Action that checks html5 syntax.
@@ -30,7 +30,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (2 days ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (3 days ago)
 - [Cyb3r-Jak3/common](https://github.com/Cyb3r-Jak3/common) - Common code that I use for my programs (1 week ago)
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces (1 week ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (1 week ago)
