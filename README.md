@@ -22,24 +22,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.1](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.1), 1 day ago) - Common code for my python programs
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v0.6.1](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v0.6.1), 1 day ago) - GitHub Action that checks html5 syntax.
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.1](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.1), 2 days ago) - Common code for my python programs
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.183.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.183.0), 1 week ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) ([v0.0.6](https://github.com/Cyb3r-Jak3/common-go/releases/tag/v0.0.6), 1 week ago) - Common code that I use for my go programs
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) ([v1.2.0](https://github.com/Cyb3r-Jak3/pypy-flask/releases/tag/v1.2.0), 3 weeks ago) - Docker base image for deploying flask appications with pypy
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v0.6](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v0.6), 1 month ago) - GitHub Action that checks html5 syntax.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
-- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (1 day ago)
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (1 day ago)
-- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (3 days ago)
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (3 days ago)
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks html5 syntax. (1 day ago)
+- [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (1 day ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (2 days ago)
+- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (2 days ago)
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (2 days ago)
 
 #### 📜 My recent blog posts
 
+- [Github Actions Docker Pipeline](https://blog.jwhite.network/Github-Action-Docker/) (1 day ago)
 - [Switching to traefik](https://blog.jwhite.network/Traefik/) (5 months ago)
 - [Python Library Template](https://blog.jwhite.network/Python-Template/) (6 months ago)
 - [Rebuild](https://blog.jwhite.network/Rebuild/) (1 year ago)
 - [Continuous Integration](https://blog.jwhite.network/Continuous-Integration/) (2 years ago)
-- [Cloudflare Log Analysis](https://blog.jwhite.network/LogFlare-Logs/) (2 years ago)
