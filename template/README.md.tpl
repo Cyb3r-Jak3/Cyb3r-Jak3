@@ -37,5 +37,5 @@
 
 
 #### 📊 Statistics
-![Cyb3r-Jak3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyb3r-Jak3&count_private=true&show_icons=true&theme=cobalt)
 ![Cyb3r-Jak3's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3r-Jak3&theme=cobalt)
+![Cyb3r-Jak3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyb3r-Jak3&count_private=true&show_icons=true&theme=cobalt&line_height=40)
