@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.185.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.185.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.186.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.186.0), today) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.2](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.2), 1 week ago) - Common code for my python programs
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.0.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.0.0), 1 week ago) - A Framework For Using HAR Files To Analyze Web Pages
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.0.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.0.0), 1 week ago) - Application for relaying notifications to webhooks
