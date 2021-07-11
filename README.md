@@ -25,11 +25,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (3 days ago)
+- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) - Github Action to purge Cloudflare cache (1 day ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask appications with pypy (3 days ago)
+- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (3 days ago)
 - [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (3 days ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (5 days ago)
-- [Cyb3r-Jak3/MetaStalk](https://github.com/Cyb3r-Jak3/MetaStalk) - Python program for graphing image metadata. Repo mirrored from GitLab. (6 days ago)
 
 #### 📜 My recent blog posts
 
