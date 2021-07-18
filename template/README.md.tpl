@@ -5,12 +5,6 @@
   - ✉️ cyb3rjak3@pm.me
     - [PGP key](https://gist.githubusercontent.com/Cyb3r-Jak3/d1068b61b50239b171faf018a0269f67/raw/b876db002e6b0630795382c0b9134771ffa5fe3a/cyb3rjak3@pm.me.asc)
 
-#### 🔭 Some of my projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyb3r-Jak3&repo=simple_http_server)](https://github.com/Cyb3r-Jak3/simple_http_server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyb3r-Jak3&repo=html5validator-docker)](https://github.com/Cyb3r-Jak3/html5validator-docker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyb3r-Jak3&repo=html5validator-action)](https://github.com/Cyb3r-Jak3/html5validator-action)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyb3r-Jak3&repo=notification_relay)](https://github.com/Cyb3r-Jak3/notification_relay)
-
 
 #### 👯 I’m looking to collaborate on any project as I like diving into new topics. Please reach out to me to collaborate.
 <!--
