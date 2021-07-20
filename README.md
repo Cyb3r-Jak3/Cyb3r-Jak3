@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v1.0.1](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v1.0.1), 1 day ago) - Github Action for deploying to Cloudflare pages when needed.
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.188.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.188.0), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v1.1.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v1.1.0), 6 days ago) - Github Action to purge Cloudflare cache
+- [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v1.0.1](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v1.0.1), 2 days ago) - Github Action for deploying to Cloudflare pages when needed.
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.188.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.188.0), 4 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v1.1.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v1.1.0), 1 week ago) - Github Action to purge Cloudflare cache
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.2](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.2), 3 weeks ago) - Common code for my python programs
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.0.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.0.0), 4 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 day ago)
-- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) - Github Action to purge Cloudflare cache (6 days ago)
-- [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) - Github Action for deploying to Cloudflare pages when needed. (6 days ago)
-- [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (6 days ago)
-- [Competitive-Cyber-Clubs/competitivecyberclubs.github.io](https://github.com/Competitive-Cyber-Clubs/competitivecyberclubs.github.io) - This is the source code for the Competitive Cyber Clubs website.  (6 days ago)
+- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (2 days ago)
+- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) - Github Action to purge Cloudflare cache (1 week ago)
+- [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) - Github Action for deploying to Cloudflare pages when needed. (1 week ago)
+- [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (1 week ago)
+- [Competitive-Cyber-Clubs/competitivecyberclubs.github.io](https://github.com/Competitive-Cyber-Clubs/competitivecyberclubs.github.io) - This is the source code for the Competitive Cyber Clubs website.  (1 week ago)
 
 #### 📜 My recent blog posts
 
