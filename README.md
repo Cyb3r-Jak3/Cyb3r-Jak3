@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (today)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (2 days ago)
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) - Github Action to purge Cloudflare cache (1 week ago)
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) - Github Action for deploying to Cloudflare pages when needed. (1 week ago)
 - [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (1 week ago)
-- [Competitive-Cyber-Clubs/competitivecyberclubs.github.io](https://github.com/Competitive-Cyber-Clubs/competitivecyberclubs.github.io) - This is the source code for the Competitive Cyber Clubs website.  (1 week ago)
 
 #### 📜 My recent blog posts
 
