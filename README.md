@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.189.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.189.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.189.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.189.0), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v1.0.1](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v1.0.1), 1 week ago) - Github Action for deploying to Cloudflare pages when needed.
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v1.1.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v1.1.0), 1 week ago) - Github Action to purge Cloudflare cache
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.2](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.2), 1 month ago) - Common code for my python programs
@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/docker-alpine-pandas](https://github.com/Cyb3r-Jak3/docker-alpine-pandas) - Python alpine image with pandas, and numpy installed (1 day ago)
-- [dadulo3/awesome-opendirectories](https://github.com/dadulo3/awesome-opendirectories) - Websites for data hoarders - grouped by category (2 days ago)
-- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (5 days ago)
+- [Cyb3r-Jak3/docker-alpine-pandas](https://github.com/Cyb3r-Jak3/docker-alpine-pandas) - Python alpine image with pandas, and numpy installed (2 days ago)
+- [dadulo3/awesome-opendirectories](https://github.com/dadulo3/awesome-opendirectories) - Websites for data hoarders - grouped by category (3 days ago)
+- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (6 days ago)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 week ago)
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) - Github Action to purge Cloudflare cache (1 week ago)
 
