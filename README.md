@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (1 day ago)
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (1 week ago)
 - [Cyb3r-Jak3/docker-alpine-pandas](https://github.com/Cyb3r-Jak3/docker-alpine-pandas) - Python alpine image with pandas, and numpy installed (1 week ago)
 - [dadulo3/awesome-opendirectories](https://github.com/dadulo3/awesome-opendirectories) - Websites for data hoarders - grouped by category (1 week ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (2 weeks ago)
-- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (2 weeks ago)
 
 #### 📜 My recent blog posts
 
