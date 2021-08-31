@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.194.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.194.0), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.194.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.194.0), 4 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v1.1.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v1.1.0), 2 weeks ago) - API for pulling Premier League Data
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v1.0.1](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v1.0.1), 1 month ago) - Github Action for deploying to Cloudflare pages when needed.
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v1.1.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v1.1.0), 1 month ago) - Github Action to purge Cloudflare cache
@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (6 days ago)
-- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (6 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 week ago)
+- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 week ago)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 week ago)
 - [ntbol/blockpalettes](https://github.com/ntbol/blockpalettes) - Block Palettes is where Minecraft builders find and share inspiration through block palettes. (1 week ago)
 - [Cyb3r-Jak3/html5validator-action-javascript](https://github.com/Cyb3r-Jak3/html5validator-action-javascript) - Javascript rewrite of my html5validator (2 weeks ago)
