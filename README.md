@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.194.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.194.1), today) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.194.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.194.1), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v1.1.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v1.1.0), 3 weeks ago) - API for pulling Premier League Data
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v1.0.1](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v1.0.1), 1 month ago) - Github Action for deploying to Cloudflare pages when needed.
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v1.1.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v1.1.0), 1 month ago) - Github Action to purge Cloudflare cache
@@ -29,7 +29,7 @@
 
 - [Github Actions Docker Pipeline](https://blog.jwhite.network/Github-Action-Docker/) (2 months ago)
 - [Switching to traefik](https://blog.jwhite.network/Traefik/) (8 months ago)
-- [Python Library Template](https://blog.jwhite.network/Python-Template/) (8 months ago)
+- [Python Library Template](https://blog.jwhite.network/Python-Template/) (9 months ago)
 - [Rebuild](https://blog.jwhite.network/Rebuild/) (1 year ago)
 - [Continuous Integration](https://blog.jwhite.network/Continuous-Integration/) (2 years ago)
 
