@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (3 days ago)
-- [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (5 days ago)
-- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (5 days ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 week ago)
-- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (2 weeks ago)
+- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (1 day ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (1 day ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (4 days ago)
+- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (6 days ago)
+- [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (6 days ago)
 
 #### 📜 My recent blog posts
 
