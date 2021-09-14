@@ -19,15 +19,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (2 days ago)
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (2 days ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (5 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
+- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (3 days ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (3 days ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (1 week ago)
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Github Actions Docker Pipeline](https://blog.jwhite.network/Github-Action-Docker/) (2 months ago)
+- [Github Actions Docker Pipeline](https://blog.jwhite.network/Github-Action-Docker/) (3 months ago)
 - [Switching to traefik](https://blog.jwhite.network/Traefik/) (8 months ago)
 - [Python Library Template](https://blog.jwhite.network/Python-Template/) (9 months ago)
 - [Rebuild](https://blog.jwhite.network/Rebuild/) (1 year ago)
