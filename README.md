@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.194.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.194.2), 1 week ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.195.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.195.0), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v1.1.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v1.1.0), 1 month ago) - API for pulling Premier League Data
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v1.0.1](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v1.0.1), 1 month ago) - Github Action for deploying to Cloudflare pages when needed.
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v1.1.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v1.1.0), 2 months ago) - Github Action to purge Cloudflare cache
@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
-- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (3 days ago)
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (3 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (2 days ago)
+- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (4 days ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (4 days ago)
 - [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (1 week ago)
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (1 week ago)
 
