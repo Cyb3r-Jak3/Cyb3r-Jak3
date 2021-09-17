@@ -11,27 +11,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.3](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.3), 1 day ago) - Common code for my python programs
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.195.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.195.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.3](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.3), 2 days ago) - Common code for my python programs
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.195.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.195.0), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v1.1.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v1.1.0), 1 month ago) - API for pulling Premier League Data
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v1.0.1](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v1.0.1), 2 months ago) - Github Action for deploying to Cloudflare pages when needed.
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v1.1.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v1.1.0), 2 months ago) - Github Action to purge Cloudflare cache
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks HTML5 syntax. (1 day ago)
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (1 day ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (3 days ago)
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (5 days ago)
-- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (5 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 day ago)
+- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 day ago)
+- [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (1 day ago)
+- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (1 day ago)
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (2 days ago)
 
 #### 📜 My recent blog posts
 
 - [Github Actions Docker Pipeline](https://blog.jwhite.network/Github-Action-Docker/) (3 months ago)
-- [Switching to traefik](https://blog.jwhite.network/Traefik/) (8 months ago)
+- [New Status Site](https://blog.jwhite.network/New-Status-Site/) (3 months ago)
+- [Switching to traefik](https://blog.jwhite.network/Traefik/) (9 months ago)
 - [Python Library Template](https://blog.jwhite.network/Python-Template/) (9 months ago)
 - [Rebuild](https://blog.jwhite.network/Rebuild/) (1 year ago)
-- [Continuous Integration](https://blog.jwhite.network/Continuous-Integration/) (2 years ago)
 
 
 #### 📊 Statistics
