@@ -23,7 +23,7 @@
 - [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (2 days ago)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (4 days ago)
 - [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) -  (4 days ago)
-- [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (4 days ago)
+- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (4 days ago)
 
 #### 📜 My recent blog posts
 
