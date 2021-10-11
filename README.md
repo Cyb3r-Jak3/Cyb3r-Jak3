@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.202.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.202.1), 4 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.202.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.202.2), today) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [google/go-github](https://github.com/google/go-github) ([v39.1.0](https://github.com/google/go-github/releases/tag/v39.1.0), 2 weeks ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.3](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.3), 3 weeks ago) - Common code for my python programs
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v1.1.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v1.1.0), 2 months ago) - API for pulling Premier League Data
