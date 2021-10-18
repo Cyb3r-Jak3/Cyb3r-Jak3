@@ -21,8 +21,8 @@
 
 - [Cyb3r-Jak3/worker-example-project](https://github.com/Cyb3r-Jak3/worker-example-project) -  (1 day ago)
 - [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (2 days ago)
-- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (2 days ago)
 - [Cyb3r-Jak3/wrangler-action-javascript](https://github.com/Cyb3r-Jak3/wrangler-action-javascript) - My version of the Cloudflare wrangler action that is built with typescript (2 days ago)
+- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (2 days ago)
 - [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) -  (5 days ago)
 
 #### 📜 My recent blog posts
