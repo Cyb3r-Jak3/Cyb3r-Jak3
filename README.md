@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 day ago)
 - [Cyb3r-Jak3/worker-example-project](https://github.com/Cyb3r-Jak3/worker-example-project) -  (1 day ago)
-- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (3 days ago)
 - [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (3 days ago)
 - [Cyb3r-Jak3/wrangler-action-javascript](https://github.com/Cyb3r-Jak3/wrangler-action-javascript) - My version of the Cloudflare wrangler action that is built with typescript (3 days ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) -  (6 days ago)
+- [Cyb3r-Jak3/python_template_repo](https://github.com/Cyb3r-Jak3/python_template_repo) - Template Python Repo for getting started with a Python Library (3 days ago)
 
 #### 📜 My recent blog posts
 
