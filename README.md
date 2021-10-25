@@ -22,8 +22,8 @@
 - [Cyb3r-Jak3/terraform-cloudflare-rules](https://github.com/Cyb3r-Jak3/terraform-cloudflare-rules) - Terraform plans for my Cloudflare setup (1 day ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (2 days ago)
 - [Cyb3r-Jak3/worker-example-project](https://github.com/Cyb3r-Jak3/worker-example-project) -  (3 days ago)
-- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (4 days ago)
 - [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (4 days ago)
+- [Cyb3r-Jak3/stats-server](https://github.com/Cyb3r-Jak3/stats-server) - Self hostable stats server (4 days ago)
 
 #### 📜 My recent blog posts
 
