@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.203.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.203.0), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.203.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.203.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.4](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.4), 1 week ago) - Common code for my python programs
 - [google/go-github](https://github.com/google/go-github) ([v39.2.0](https://github.com/google/go-github/releases/tag/v39.2.0), 2 weeks ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v1.1.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v1.1.0), 2 months ago) - API for pulling Premier League Data
@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/docker-udpt](https://github.com/Cyb3r-Jak3/docker-udpt) - Docker image for hosting udpt. (1 day ago)
-- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (1 day ago)
-- [Cyb3r-Jak3/terraform-cloudflare-rules](https://github.com/Cyb3r-Jak3/terraform-cloudflare-rules) - Terraform plans for my Cloudflare setup (3 days ago)
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (4 days ago)
-- [Cyb3r-Jak3/worker-example-project](https://github.com/Cyb3r-Jak3/worker-example-project) -  (5 days ago)
+- [Cyb3r-Jak3/docker-udpt](https://github.com/Cyb3r-Jak3/docker-udpt) - Docker image for hosting udpt. (2 days ago)
+- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (2 days ago)
+- [Cyb3r-Jak3/terraform-cloudflare-rules](https://github.com/Cyb3r-Jak3/terraform-cloudflare-rules) - Terraform plans for my Cloudflare setup (4 days ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (5 days ago)
+- [Cyb3r-Jak3/worker-example-project](https://github.com/Cyb3r-Jak3/worker-example-project) -  (6 days ago)
 
 #### 📜 My recent blog posts
 
