@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (1 day ago)
 - [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 day ago)
-- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (3 days ago)
 - [Cyb3r-Jak3/docker-udpt](https://github.com/Cyb3r-Jak3/docker-udpt) - Docker image for hosting udpt. (3 days ago)
 - [Cyb3r-Jak3/terraform-cloudflare-rules](https://github.com/Cyb3r-Jak3/terraform-cloudflare-rules) - Terraform plans for my Cloudflare setup (5 days ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (6 days ago)
