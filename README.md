@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 3 days ago) - GitHub Action that checks HTML5 syntax.
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.205.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.205.1), 5 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 4 days ago) - GitHub Action that checks HTML5 syntax.
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.205.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.205.1), 6 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.1.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.1.0), 1 week ago) - Application for relaying notifications to webhooks
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.4](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.4), 2 weeks ago) - Common code for my python programs
 - [google/go-github](https://github.com/google/go-github) ([v39.2.0](https://github.com/google/go-github/releases/tag/v39.2.0), 3 weeks ago) - Go library for accessing the GitHub API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks HTML5 syntax. (1 day ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks HTML5 syntax. (2 days ago)
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (1 week ago)
 - [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (1 week ago)
 - [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 week ago)
-- [Cyb3r-Jak3/docker-udpt](https://github.com/Cyb3r-Jak3/docker-udpt) - Docker image for hosting udpt. (1 week ago)
 
 #### 📜 My recent blog posts
 
