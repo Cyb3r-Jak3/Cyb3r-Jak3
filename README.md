@@ -19,10 +19,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (4 days ago)
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (today)
 - [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (4 days ago)
+- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (4 days ago)
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks HTML5 syntax. (5 days ago)
-- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (1 week ago)
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (1 week ago)
 
 #### 📜 My recent blog posts
