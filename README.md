@@ -11,15 +11,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.205.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.205.2), 4 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [google/go-github](https://github.com/google/go-github) ([v40.0.0](https://github.com/google/go-github/releases/tag/v40.0.0), 5 days ago) - Go library for accessing the GitHub API
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.205.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.205.2), 5 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [google/go-github](https://github.com/google/go-github) ([v40.0.0](https://github.com/google/go-github/releases/tag/v40.0.0), 6 days ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 1 week ago) - GitHub Action that checks HTML5 syntax.
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.1.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.1.0), 2 weeks ago) - Application for relaying notifications to webhooks
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.4](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.4), 3 weeks ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (3 days ago)
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (4 days ago)
 - [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 week ago)
 - [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (1 week ago)
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks HTML5 syntax. (1 week ago)
