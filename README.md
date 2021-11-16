@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.205.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.205.2), 6 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.205.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.205.2), 1 week ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [google/go-github](https://github.com/google/go-github) ([v40.0.0](https://github.com/google/go-github/releases/tag/v40.0.0), 1 week ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 1 week ago) - GitHub Action that checks HTML5 syntax.
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.1.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.1.0), 2 weeks ago) - Application for relaying notifications to webhooks
@@ -19,17 +19,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 day ago)
-- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 day ago)
-- [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (1 day ago)
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (5 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (2 days ago)
+- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (2 days ago)
+- [Cyb3r-Jak3/blog.jwhite.network](https://github.com/Cyb3r-Jak3/blog.jwhite.network) - Public repo for my blog (2 days ago)
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (6 days ago)
 - [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 week ago)
 
 #### 📜 My recent blog posts
 
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (1 month ago)
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (5 months ago)
-- [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (10 months ago)
+- [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (11 months ago)
 - [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (11 months ago)
 - [Rebuild](https://blog.cyberjake.xyz/Rebuild/) (1 year ago)
 
