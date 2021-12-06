@@ -11,15 +11,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.209.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.209.1), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [google/go-github](https://github.com/google/go-github) ([v41.0.0](https://github.com/google/go-github/releases/tag/v41.0.0), 6 days ago) - Go library for accessing the GitHub API
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.209.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.209.1), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [google/go-github](https://github.com/google/go-github) ([v41.0.0](https://github.com/google/go-github/releases/tag/v41.0.0), 1 week ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 1 month ago) - GitHub Action that checks HTML5 syntax.
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.1.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.1.0), 1 month ago) - Application for relaying notifications to webhooks
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.4](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.4), 1 month ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (5 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (6 days ago)
 - [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (1 week ago)
 - [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 week ago)
 - [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (1 week ago)
@@ -31,7 +31,7 @@
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (5 months ago)
 - [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (11 months ago)
 - [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (1 year ago)
-- [Rebuild](https://blog.cyberjake.xyz/Rebuild/) (1 year ago)
+- [Rebuild](https://blog.cyberjake.xyz/Rebuild/) (2 years ago)
 
 
 #### 📊 Statistics
