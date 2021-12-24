@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (6 days ago)
+- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (1 week ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs. (2 weeks ago)
 - [Cyb3r-Jak3/docker-udpt](https://github.com/Cyb3r-Jak3/docker-udpt) - Docker image for hosting udpt. (2 weeks ago)
 - [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (3 weeks ago)
