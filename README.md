@@ -23,11 +23,11 @@
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs. (2 weeks ago)
 - [Cyb3r-Jak3/docker-udpt](https://github.com/Cyb3r-Jak3/docker-udpt) - Docker image for hosting udpt. (2 weeks ago)
 - [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (3 weeks ago)
-- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (3 weeks ago)
+- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (4 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (2 months ago)
+- [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (3 months ago)
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (6 months ago)
 - [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (1 year ago)
 - [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (1 year ago)
