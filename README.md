@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.209.6](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.209.6), 1 week ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.209.6](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.209.6), 2 weeks ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [google/go-github](https://github.com/google/go-github) ([v41.0.0](https://github.com/google/go-github/releases/tag/v41.0.0), 4 weeks ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 1 month ago) - GitHub Action that checks HTML5 syntax.
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.1.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.1.0), 1 month ago) - Application for relaying notifications to webhooks
@@ -22,8 +22,8 @@
 - [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (1 week ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs. (2 weeks ago)
 - [Cyb3r-Jak3/docker-udpt](https://github.com/Cyb3r-Jak3/docker-udpt) - Docker image for hosting udpt. (3 weeks ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (3 weeks ago)
-- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (4 weeks ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (4 weeks ago)
+- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (1 month ago)
 
 #### 📜 My recent blog posts
 
