@@ -11,9 +11,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), today) - Go library for accessing the GitHub API
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.211.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.211.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.14.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.14.0), 2 weeks ago) - 🔧 Ansible role for deploying promtail
-- [google/go-github](https://github.com/google/go-github) ([v41.0.0](https://github.com/google/go-github/releases/tag/v41.0.0), 1 month ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 2 months ago) - GitHub Action that checks HTML5 syntax.
 - [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.1.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.1.0), 2 months ago) - Application for relaying notifications to webhooks
 
