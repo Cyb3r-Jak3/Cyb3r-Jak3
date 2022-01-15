@@ -11,11 +11,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.15.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.15.0), 1 day ago) - 🔧 Ansible role for deploying promtail
-- [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), 1 day ago) - Go library for accessing the GitHub API
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.211.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.211.0), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.212.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.212.0), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.8.7](https://github.com/coredns/coredns/releases/tag/v1.8.7), 1 day ago) - CoreDNS is a DNS server that chains plugins
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.15.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.15.0), 2 days ago) - 🔧 Ansible role for deploying promtail
+- [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), 2 days ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 2 months ago) - GitHub Action that checks HTML5 syntax.
-- [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) ([v1.1.0](https://github.com/Cyb3r-Jak3/notification_relay/releases/tag/v1.1.0), 2 months ago) - Application for relaying notifications to webhooks
 
 #### 👷 Check out what I'm currently working on
 
