@@ -11,15 +11,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.213.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.213.0), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.8.7](https://github.com/coredns/coredns/releases/tag/v1.8.7), 6 days ago) - CoreDNS is a DNS server that chains plugins
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.213.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.213.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.8.7](https://github.com/coredns/coredns/releases/tag/v1.8.7), 1 week ago) - CoreDNS is a DNS server that chains plugins
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.15.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.15.0), 1 week ago) - 🔧 Ansible role for deploying promtail
 - [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), 1 week ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.0.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.0.0), 2 months ago) - GitHub Action that checks HTML5 syntax.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (5 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (6 days ago)
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) - 🔧 Ansible role for deploying promtail (3 weeks ago)
 - [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (1 month ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs. (1 month ago)
