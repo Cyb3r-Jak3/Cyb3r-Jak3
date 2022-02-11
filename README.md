@@ -11,8 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.0](https://github.com/coredns/coredns/releases/tag/v1.9.0), 1 day ago) - CoreDNS is a DNS server that chains plugins
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.219.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.219.0), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.217.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.217.2), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.0](https://github.com/coredns/coredns/releases/tag/v1.9.0), 2 days ago) - CoreDNS is a DNS server that chains plugins
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.5](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.5), 1 week ago) - Common code for my python programs
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.15.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.15.0), 4 weeks ago) - 🔧 Ansible role for deploying promtail
 - [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), 4 weeks ago) - Go library for accessing the GitHub API
@@ -28,7 +28,7 @@
 #### 📜 My recent blog posts
 
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (4 months ago)
-- [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (7 months ago)
+- [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (8 months ago)
 - [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (1 year ago)
 - [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (1 year ago)
 - [Rebuild](https://blog.cyberjake.xyz/Rebuild/) (2 years ago)
