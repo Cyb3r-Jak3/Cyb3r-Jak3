@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.224.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.224.1), 4 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.224.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.224.1), 5 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.1.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.1.0), 1 week ago) - GitHub Action that checks HTML5 syntax.
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.0](https://github.com/coredns/coredns/releases/tag/v1.9.0), 2 weeks ago) - CoreDNS is a DNS server that chains plugins
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.0](https://github.com/coredns/coredns/releases/tag/v1.9.0), 3 weeks ago) - CoreDNS is a DNS server that chains plugins
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.5](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.5), 1 month ago) - Common code for my python programs
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.15.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.15.0), 1 month ago) - 🔧 Ansible role for deploying promtail
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (1 day ago)
-- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (1 day ago)
-- [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (1 day ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (2 days ago)
+- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (2 days ago)
+- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (2 days ago)
+- [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (2 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (3 days ago)
 - [Cyb3r-Jak3/html5-action-test](https://github.com/Cyb3r-Jak3/html5-action-test) - Testing ground for action bug reports (1 week ago)
 
 #### 📜 My recent blog posts
