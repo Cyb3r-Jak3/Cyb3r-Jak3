@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.224.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.224.2), today) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), today) - Go library for accessing the GitHub API
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.224.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.224.2), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 1 day ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.1.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.1.0), 1 week ago) - GitHub Action that checks HTML5 syntax.
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.0](https://github.com/coredns/coredns/releases/tag/v1.9.0), 3 weeks ago) - CoreDNS is a DNS server that chains plugins
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.5](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.5), 1 month ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (1 day ago)
-- [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (2 days ago)
-- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (2 days ago)
-- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (2 days ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (3 days ago)
+- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (2 days ago)
+- [Cyb3r-Jak3/notification_relay](https://github.com/Cyb3r-Jak3/notification_relay) - Application for relaying notifications to webhooks (3 days ago)
+- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (3 days ago)
+- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (3 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (4 days ago)
 
 #### 📜 My recent blog posts
 
