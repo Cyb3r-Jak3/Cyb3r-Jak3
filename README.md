@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) -  (2 days ago)
 - [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (2 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) -  (2 days ago)
 - [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (1 week ago)
 - [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (2 weeks ago)
 - [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (2 weeks ago)
