@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.229.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.229.0), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.230.0](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.230.0), today) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.1](https://github.com/coredns/coredns/releases/tag/v1.9.1), 2 weeks ago) - CoreDNS is a DNS server that chains plugins
 - [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 3 weeks ago) - Go library for accessing the GitHub API
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.1.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.1.0), 1 month ago) - GitHub Action that checks HTML5 syntax.
