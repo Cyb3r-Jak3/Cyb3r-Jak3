@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
 - [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 days ago)
 - [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 week ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) -  (1 week ago)
 - [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (2 weeks ago)
-- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (3 weeks ago)
 
 #### 📜 My recent blog posts
 
