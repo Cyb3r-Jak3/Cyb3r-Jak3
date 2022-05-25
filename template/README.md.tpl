@@ -27,7 +27,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://blog.jwhite.network/feed.xml" 5}}
+{{range rss "https://blog.cyberjake.xyz/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
