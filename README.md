@@ -11,25 +11,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.231.2](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.231.2), 1 day ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.1](https://github.com/coredns/coredns/releases/tag/v1.9.1), 3 weeks ago) - CoreDNS is a DNS server that chains plugins
-- [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 1 month ago) - Go library for accessing the GitHub API
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.1.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.1.0), 1 month ago) - GitHub Action that checks HTML5 syntax.
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.5](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.5), 2 months ago) - Common code for my python programs
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.236.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.236.1), today) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [google/go-github](https://github.com/google/go-github) ([v44.1.0](https://github.com/google/go-github/releases/tag/v44.1.0), 1 week ago) - Go library for accessing the GitHub v3 API
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.2](https://github.com/coredns/coredns/releases/tag/v1.9.2), 2 weeks ago) - CoreDNS is a DNS server that chains plugins
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.1.1](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.1.1), 1 month ago) - GitHub Action that checks HTML5 syntax.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (5 days ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (5 days ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (6 days ago)
-- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (1 week ago)
+- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (1 day ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 day ago)
+- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (2 days ago)
+- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 week ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (1 week ago)
-- [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (6 months ago)
-- [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (9 months ago)
+- [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (2 months ago)
+- [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (8 months ago)
+- [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (11 months ago)
 - [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (1 year ago)
 - [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (1 year ago)
 
