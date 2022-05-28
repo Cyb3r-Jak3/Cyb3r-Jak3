@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.236.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.236.1), 2 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.3](https://github.com/coredns/coredns/releases/tag/v1.9.3), 1 day ago) - CoreDNS is a DNS server that chains plugins
+- [google/go-github](https://github.com/google/go-github) ([v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.236.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.236.1), 3 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.2](https://github.com/coredns/coredns/releases/tag/v1.9.2), 2 weeks ago) - CoreDNS is a DNS server that chains plugins
 - [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.1.1](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.1.1), 1 month ago) - GitHub Action that checks HTML5 syntax.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (3 days ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (3 days ago)
-- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (4 days ago)
+- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (4 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (4 days ago)
+- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (5 days ago)
 - [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 week ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 weeks ago)
 
