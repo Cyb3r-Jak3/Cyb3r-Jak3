@@ -2,7 +2,7 @@
 
 #### 📫 How to reach me:
   - Twitter: [@Cyb3r_Jak3](https://twitter.com/Cyb3r_Jak3)
-  - ✉️ cyb3rjak3@pm.me
+  - ✉️ git@cyberjake.xyz
     - [PGP key](https://gist.githubusercontent.com/Cyb3r-Jak3/d1068b61b50239b171faf018a0269f67/raw/b876db002e6b0630795382c0b9134771ffa5fe3a/cyb3rjak3@pm.me.asc)
 
 
@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) - Command line tool to validate HTML5 files. Great for continuous integration. (today)
 - [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 day ago)
 - [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 days ago)
-- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (6 days ago)
 - [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (6 days ago)
-- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (1 week ago)
+- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (6 days ago)
 
 #### 📜 My recent blog posts
 
