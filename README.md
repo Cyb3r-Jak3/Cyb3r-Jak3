@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.3](https://github.com/coredns/coredns/releases/tag/v1.9.3), 2 days ago) - CoreDNS is a DNS server that chains plugins
-- [google/go-github](https://github.com/google/go-github) ([v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0), 4 days ago) - Go library for accessing the GitHub v3 API
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.236.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.236.1), 4 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 1 day ago) - Command line tool to validate HTML5 files. Great for continuous integration.
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.3](https://github.com/coredns/coredns/releases/tag/v1.9.3), 3 days ago) - CoreDNS is a DNS server that chains plugins
+- [google/go-github](https://github.com/google/go-github) ([v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.236.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.236.1), 5 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.1.1](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.1.1), 1 month ago) - GitHub Action that checks HTML5 syntax.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (1 day ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (5 days ago)
-- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (5 days ago)
-- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (6 days ago)
-- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 week ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 day ago)
+- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 days ago)
+- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (6 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (6 days ago)
+- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -31,7 +31,7 @@
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (8 months ago)
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (11 months ago)
 - [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (1 year ago)
-- [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (1 year ago)
+- [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (2 years ago)
 
 
 #### 📊 Statistics
