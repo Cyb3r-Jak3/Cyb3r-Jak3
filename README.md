@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 1 day ago) - Command line tool to validate HTML5 files. Great for continuous integration.
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.3](https://github.com/coredns/coredns/releases/tag/v1.9.3), 3 days ago) - CoreDNS is a DNS server that chains plugins
-- [google/go-github](https://github.com/google/go-github) ([v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.236.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.236.1), 5 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 2 days ago) - Command line tool to validate HTML5 files. Great for continuous integration.
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.3](https://github.com/coredns/coredns/releases/tag/v1.9.3), 4 days ago) - CoreDNS is a DNS server that chains plugins
+- [google/go-github](https://github.com/google/go-github) ([v45.0.0](https://github.com/google/go-github/releases/tag/v45.0.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) ([v0.236.1](https://github.com/microsoft/vscode-dev-containers/releases/tag/v0.236.1), 6 days ago) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 
 #### 👷 Check out what I'm currently working on
 
-- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) - Command line tool to validate HTML5 files. Great for continuous integration. (today)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 day ago)
-- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 days ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (6 days ago)
-- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (6 days ago)
+- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) - Command line tool to validate HTML5 files. Great for continuous integration. (1 day ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (2 days ago)
+- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (3 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 week ago)
+- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (1 week ago)
 
 #### 📜 My recent blog posts
 
