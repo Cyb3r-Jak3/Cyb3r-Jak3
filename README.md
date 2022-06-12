@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.0), 4 days ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [google/go-github](https://github.com/google/go-github) ([v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0), 4 days ago) - Go library for accessing the GitHub v3 API
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc1), 1 week ago) - Helpful Cloudflare utility program 
-- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 1 week ago) - Command line tool to validate HTML5 files. Great for continuous integration.
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc2), 1 day ago) - Helpful Cloudflare utility program 
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.0), 5 days ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [google/go-github](https://github.com/google/go-github) ([v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 2 weeks ago) - Command line tool to validate HTML5 files. Great for continuous integration.
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.3](https://github.com/coredns/coredns/releases/tag/v1.9.3), 2 weeks ago) - CoreDNS is a DNS server that chains plugins
 
 #### 👷 Check out what I'm currently working on
 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (4 days ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (5 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 day ago)
+- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (1 day ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (5 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (6 days ago)
 - [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) - Command line tool to validate HTML5 files. Great for continuous integration. (1 week ago)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 week ago)
 
 #### 📜 My recent blog posts
 
