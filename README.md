@@ -11,26 +11,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc2), 2 days ago) - Helpful Cloudflare utility program 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.0), 6 days ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [google/go-github](https://github.com/google/go-github) ([v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 1 day ago) - Helpful Cloudflare utility program 
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.0), 1 week ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [google/go-github](https://github.com/google/go-github) ([v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 2 weeks ago) - Command line tool to validate HTML5 files. Great for continuous integration.
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.3](https://github.com/coredns/coredns/releases/tag/v1.9.3), 2 weeks ago) - CoreDNS is a DNS server that chains plugins
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (1 day ago)
-- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 day ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
-- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (2 days ago)
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (6 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 day ago)
+- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 days ago)
+- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (2 days ago)
+- [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (3 days ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (1 week ago)
 
 #### 📜 My recent blog posts
 
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (2 months ago)
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (8 months ago)
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (1 year ago)
-- [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (1 year ago)
+- [Switching to traefik](https://blog.cyberjake.xyz/Traefik/) (2 years ago)
 - [Python Library Template](https://blog.cyberjake.xyz/Python-Template/) (2 years ago)
 
 
