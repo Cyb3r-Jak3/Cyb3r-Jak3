@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 5 days ago) - Helpful Cloudflare utility program 
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 6 days ago) - Helpful Cloudflare utility program 
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.0), 1 week ago) - A Framework For Using HAR Files To Analyze Web Pages
 - [google/go-github](https://github.com/google/go-github) ([v45.1.0](https://github.com/google/go-github/releases/tag/v45.1.0), 1 week ago) - Go library for accessing the GitHub v3 API
-- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 2 weeks ago) - Command line tool to validate HTML5 files. Great for continuous integration.
+- [svenkreiss/html5validator](https://github.com/svenkreiss/html5validator) ([v0.4.2](https://github.com/svenkreiss/html5validator/releases/tag/v0.4.2), 3 weeks ago) - Command line tool to validate HTML5 files. Great for continuous integration.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (4 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (5 days ago)
-- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (6 days ago)
-- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (6 days ago)
+- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (1 day ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (6 days ago)
+- [Cyb3r-Jak3/portfolio-website](https://github.com/Cyb3r-Jak3/portfolio-website) - Source content for my portfolio website. (1 week ago)
+- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (1 week ago)
 - [Cyb3r-Jak3/firewall_sync](https://github.com/Cyb3r-Jak3/firewall_sync) -  (1 week ago)
 
 #### 📜 My recent blog posts
