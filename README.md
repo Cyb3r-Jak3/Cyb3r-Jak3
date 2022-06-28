@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.42.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.42.0), 5 days ago) - Go library for the Cloudflare v4 API
-- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.43.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.43.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 2 weeks ago) - Helpful Cloudflare utility program 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.0), 2 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.0), 3 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-api-pretty](https://github.com/Cyb3r-Jak3/cloudflare-api-pretty) - Spotlight Version based of Cloudflare APIs Scheme (1 day ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 days ago)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (4 days ago)
-- [Cyb3r-Jak3/cloudflare-example](https://github.com/Cyb3r-Jak3/cloudflare-example) - Examples created for Cloudflare Community (5 days ago)
-- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (1 week ago)
+- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (1 day ago)
+- [Cyb3r-Jak3/cloudflare-api-pretty](https://github.com/Cyb3r-Jak3/cloudflare-api-pretty) - Spotlight Version based of Cloudflare APIs Scheme (2 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (5 days ago)
+- [Cyb3r-Jak3/cloudflare-example](https://github.com/Cyb3r-Jak3/cloudflare-example) - Examples created for Cloudflare Community (6 days ago)
 
 #### 📜 My recent blog posts
 
