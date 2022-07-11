@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.17.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.17.0), 2 days ago) - 🔧 Ansible role for deploying promtail
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.44.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.44.0), 5 days ago) - Go library for the Cloudflare v4 API
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.17.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.17.0), 3 days ago) - 🔧 Ansible role for deploying promtail
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.44.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.44.0), 6 days ago) - Go library for the Cloudflare v4 API
 - [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 3 weeks ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 4 weeks ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/vyos-builder](https://github.com/Cyb3r-Jak3/vyos-builder) - Build VyOS images (1 day ago)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (4 days ago)
-- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (1 week ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (2 days ago)
+- [Cyb3r-Jak3/vyos-builder](https://github.com/Cyb3r-Jak3/vyos-builder) - Build VyOS images (2 days ago)
+- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (2 weeks ago)
 - [Cyb3r-Jak3/cloudflare-api-pretty](https://github.com/Cyb3r-Jak3/cloudflare-api-pretty) - Spotlight Version based of Cloudflare APIs Scheme (2 weeks ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 weeks ago)
 
