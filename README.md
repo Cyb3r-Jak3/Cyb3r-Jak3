@@ -11,15 +11,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 5 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.17.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.17.0), 1 week ago) - 🔧 Ansible role for deploying promtail
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.44.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.44.0), 2 weeks ago) - Go library for the Cloudflare v4 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.45.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.45.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 1 day ago) - 🔧 Ansible role for deploying promtail
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 6 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 4 weeks ago) - Go library for accessing the GitHub v3 API
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 1 month ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [Cyb3r-Jak3/vyos-builder](https://github.com/Cyb3r-Jak3/vyos-builder) - Build VyOS images (1 week ago)
 - [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (3 weeks ago)
