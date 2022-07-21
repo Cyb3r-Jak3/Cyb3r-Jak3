@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.45.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.45.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 1 day ago) - 🔧 Ansible role for deploying promtail
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 6 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 4 weeks ago) - Go library for accessing the GitHub v3 API
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.0.0-rc3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.0.0-rc3), 1 month ago) - Helpful Cloudflare utility program 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.45.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.45.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 2 days ago) - 🔧 Ansible role for deploying promtail
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.19.0), 1 week ago) - Cloudflare Terraform Provider
+- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 1 month ago) - Go library for accessing the GitHub v3 API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 days ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [Cyb3r-Jak3/vyos-builder](https://github.com/Cyb3r-Jak3/vyos-builder) - Build VyOS images (1 week ago)
 - [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (3 weeks ago)
-- [Cyb3r-Jak3/cloudflare-api-pretty](https://github.com/Cyb3r-Jak3/cloudflare-api-pretty) - Spotlight Version based of Cloudflare APIs Scheme (3 weeks ago)
 
 #### 📜 My recent blog posts
 
