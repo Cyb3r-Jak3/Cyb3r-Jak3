@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.46.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.46.0), 2 days ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) ([v1.0.0](https://github.com/Cyb3r-Jak3/wrangler-action/releases/tag/v1.0.0), 4 days ago) - GitHub action for using Cloudflare&#39;s wrangler
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.46.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.46.0), 3 days ago) - Go library for the Cloudflare v4 API
+- [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) ([v1.0.0](https://github.com/Cyb3r-Jak3/wrangler-action/releases/tag/v1.0.0), 5 days ago) - GitHub action for using Cloudflare&#39;s wrangler
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.20.0), 1 week ago) - Cloudflare Terraform Provider
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 2 weeks ago) - 🔧 Ansible role for deploying promtail
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 days ago)
-- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (2 days ago)
-- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (3 days ago)
-- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (3 days ago)
-- [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) - GitHub action for using Cloudflare&#39;s wrangler (4 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
+- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (3 days ago)
+- [Cyb3r-Jak3/simple_http_server](https://github.com/Cyb3r-Jak3/simple_http_server) - Simple Go HTTP server to demo dealing with requests. (4 days ago)
+- [Cyb3r-Jak3/go-api](https://github.com/Cyb3r-Jak3/go-api) - GoLang rewrite of my API server (4 days ago)
+- [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) - GitHub action for using Cloudflare&#39;s wrangler (5 days ago)
 
 #### 📜 My recent blog posts
 
