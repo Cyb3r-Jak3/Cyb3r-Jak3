@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.21.0), 5 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.21.0), 6 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.46.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.46.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) ([v1.0.0](https://github.com/Cyb3r-Jak3/wrangler-action/releases/tag/v1.0.0), 2 weeks ago) - GitHub action for using Cloudflare&#39;s wrangler
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 3 weeks ago) - 🔧 Ansible role for deploying promtail
@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (3 days ago)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (6 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (4 days ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 week ago)
 - [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (1 week ago)
 - [Cyb3r-Jak3/worker-proxy](https://github.com/Cyb3r-Jak3/worker-proxy) - Proxies requests (1 week ago)
 - [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 week ago)
