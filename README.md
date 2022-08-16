@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.21.0), 6 days ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.46.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.46.0), 1 week ago) - Go library for the Cloudflare v4 API
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.21.0), 1 week ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.46.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.46.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) ([v1.0.0](https://github.com/Cyb3r-Jak3/wrangler-action/releases/tag/v1.0.0), 2 weeks ago) - GitHub action for using Cloudflare&#39;s wrangler
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 3 weeks ago) - 🔧 Ansible role for deploying promtail
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 4 weeks ago) - 🔧 Ansible role for deploying promtail
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 month ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (4 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
+- [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) - GitHub action for using Cloudflare&#39;s wrangler (1 day ago)
+- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (1 day ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (5 days ago)
 - [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 week ago)
-- [Cyb3r-Jak3/workers-dns-api](https://github.com/Cyb3r-Jak3/workers-dns-api) -  (1 week ago)
-- [Cyb3r-Jak3/worker-proxy](https://github.com/Cyb3r-Jak3/worker-proxy) - Proxies requests (1 week ago)
-- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 week ago)
 
 #### 📜 My recent blog posts
 
