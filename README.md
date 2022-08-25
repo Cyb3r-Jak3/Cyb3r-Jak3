@@ -11,16 +11,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.22.0), 1 day ago) - Cloudflare Terraform Provider
-- [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.48.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.48.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.22.0), 2 days ago) - Cloudflare Terraform Provider
+- [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.48.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.48.0), 3 days ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) ([v1.0.0](https://github.com/Cyb3r-Jak3/wrangler-action/releases/tag/v1.0.0), 3 weeks ago) - GitHub action for using Cloudflare&#39;s wrangler
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 1 month ago) - 🔧 Ansible role for deploying promtail
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (2 days ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (2 days ago)
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (3 days ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (3 days ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 week ago)
 - [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) - GitHub action for using Cloudflare&#39;s wrangler (1 week ago)
