@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.49.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.49.0), 6 days ago) - Go library for the Cloudflare v4 API
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.22.0), 2 weeks ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.23.0), today) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.49.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.49.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) ([v1.0.0](https://github.com/Cyb3r-Jak3/wrangler-action/releases/tag/v1.0.0), 1 month ago) - GitHub action for using Cloudflare&#39;s wrangler
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.18.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.18.0), 1 month ago) - 🔧 Ansible role for deploying promtail
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (1 day ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 day ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (2 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (2 days ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (1 week ago)
 
