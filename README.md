@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.4](https://github.com/coredns/coredns/releases/tag/v1.9.4), 5 days ago) - CoreDNS is a DNS server that chains plugins
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.23.0), 6 days ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.49.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.49.0), 1 week ago) - Go library for the Cloudflare v4 API
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.4](https://github.com/coredns/coredns/releases/tag/v1.9.4), 6 days ago) - CoreDNS is a DNS server that chains plugins
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.23.0), 1 week ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.49.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.49.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 - [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) ([v1.0.0](https://github.com/Cyb3r-Jak3/wrangler-action/releases/tag/v1.0.0), 1 month ago) - GitHub action for using Cloudflare&#39;s wrangler
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (1 day ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (2 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (6 days ago)
+- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (2 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (3 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 week ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (2 weeks ago)
 
