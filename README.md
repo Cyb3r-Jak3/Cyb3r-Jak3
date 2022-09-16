@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.50.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.50.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v2.0.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v2.0.0), 1 day ago) - API for pulling Premier League Data
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.50.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.50.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v2.0.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v2.0.0), 2 days ago) - API for pulling Premier League Data
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.4](https://github.com/coredns/coredns/releases/tag/v1.9.4), 1 week ago) - CoreDNS is a DNS server that chains plugins
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.23.0), 1 week ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (2 days ago)
-- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (3 days ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (4 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 week ago)
+- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (1 day ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (2 days ago)
+- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (3 days ago)
+- [Cyb3r-Jak3/car-api](https://github.com/Cyb3r-Jak3/car-api) - Simple webapp for tracking EV stats (4 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (5 days ago)
 
 #### 📜 My recent blog posts
 
