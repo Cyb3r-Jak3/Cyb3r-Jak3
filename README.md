@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), today) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.50.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.50.0), 3 days ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v2.0.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v2.0.0), 3 days ago) - API for pulling Premier League Data
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 day ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.50.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.50.0), 4 days ago) - Go library for the Cloudflare v4 API
+- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v2.0.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v2.0.0), 4 days ago) - API for pulling Premier League Data
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.9.4](https://github.com/coredns/coredns/releases/tag/v1.9.4), 1 week ago) - CoreDNS is a DNS server that chains plugins
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.23.0), 1 week ago) - Cloudflare Terraform Provider
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
 - [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers (1 day ago)
-- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (2 days ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (3 days ago)
-- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (4 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
+- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (3 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (4 days ago)
 
 #### 📜 My recent blog posts
 
