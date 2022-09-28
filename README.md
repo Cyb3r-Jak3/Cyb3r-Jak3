@@ -11,15 +11,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.24.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.24.0), 6 days ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.51.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.51.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 day ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.24.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.24.0), 1 week ago) - Cloudflare Terraform Provider
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.10.0](https://github.com/coredns/coredns/releases/tag/v1.10.0), 1 week ago) - CoreDNS is a DNS server that chains plugins
 - [google/go-github](https://github.com/google/go-github) ([v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0), 1 week ago) - Go library for accessing the GitHub v3 API
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.50.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.50.0), 1 week ago) - Go library for the Cloudflare v4 API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 week ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (1 week ago)
