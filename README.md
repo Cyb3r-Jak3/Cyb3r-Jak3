@@ -12,22 +12,22 @@
 #### 🔭 Latest releases I've contributed to
 
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 day ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.51.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.51.0), 6 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.51.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.51.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.24.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.24.0), 1 week ago) - Cloudflare Terraform Provider
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.10.0](https://github.com/coredns/coredns/releases/tag/v1.10.0), 2 weeks ago) - CoreDNS is a DNS server that chains plugins
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v2.0.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v2.0.0), 2 weeks ago) - API for pulling Premier League Data
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 day ago)
-- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 days ago)
-- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (2 days ago)
+- [Cyb3r-Jak3/Scripts](https://github.com/Cyb3r-Jak3/Scripts) - A collection of scripts that I have written for school and personal use (1 day ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (2 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (2 days ago)
+- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (3 days ago)
 
 #### 📜 My recent blog posts
 
-- [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (2 days ago)
+- [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (3 days ago)
 - [Disabling Disqus](https://blog.cyberjake.xyz/Disabling-Disqus/) (2 weeks ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (6 months ago)
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (1 year ago)
