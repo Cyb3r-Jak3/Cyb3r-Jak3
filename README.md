@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 4 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.25.0), 6 days ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.51.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.51.0), 1 week ago) - Go library for the Cloudflare v4 API
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 5 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.25.0), 1 week ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.51.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.51.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.10.0](https://github.com/coredns/coredns/releases/tag/v1.10.0), 3 weeks ago) - CoreDNS is a DNS server that chains plugins
 - [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) ([v2.0.0](https://github.com/Cyb3r-Jak3/preimer_league_api/releases/tag/v2.0.0), 3 weeks ago) - API for pulling Premier League Data
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (1 day ago)
 - [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (1 day ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
-- [Cyb3r-Jak3/Scripts](https://github.com/Cyb3r-Jak3/Scripts) - A collection of scripts that I have written for school and personal use (1 week ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 week ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 week ago)
+- [Cyb3r-Jak3/wrangler-action](https://github.com/Cyb3r-Jak3/wrangler-action) - GitHub action for using Cloudflare&#39;s wrangler (1 day ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (1 day ago)
 
 #### 📜 My recent blog posts
 
