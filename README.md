@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.52.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.52.0), 4 days ago) - Go library for the Cloudflare v4 API
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.52.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.52.0), 5 days ago) - Go library for the Cloudflare v4 API
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) ([v3.7.0](https://github.com/hugo-toha/toha/releases/tag/v3.7.0), 1 week ago) - A Hugo theme for personal portfolio
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.25.0), 1 week ago) - Cloudflare Terraform Provider
-- [coredns/coredns](https://github.com/coredns/coredns) ([v1.10.0](https://github.com/coredns/coredns/releases/tag/v1.10.0), 3 weeks ago) - CoreDNS is a DNS server that chains plugins
+- [coredns/coredns](https://github.com/coredns/coredns) ([v1.10.0](https://github.com/coredns/coredns/releases/tag/v1.10.0), 4 weeks ago) - CoreDNS is a DNS server that chains plugins
 
 #### 👷 Check out what I'm currently working on
 
 - [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (1 day ago)
-- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio (1 day ago)
-- [Cyb3r-Jak3/docker-workerd](https://github.com/Cyb3r-Jak3/docker-workerd) - Docker image for Cloudflare workerd (3 days ago)
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (5 days ago)
-- [Cyb3r-Jak3/HAR_Analyzer](https://github.com/Cyb3r-Jak3/HAR_Analyzer) - HAR file analyzer app. (6 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (2 days ago)
+- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio (2 days ago)
+- [Cyb3r-Jak3/docker-workerd](https://github.com/Cyb3r-Jak3/docker-workerd) - Docker image for Cloudflare workerd (4 days ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (6 days ago)
 
 #### 📜 My recent blog posts
 
