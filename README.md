@@ -11,16 +11,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.26.0), 4 days ago) - Cloudflare Terraform Provider
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 4 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.26.0), 5 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.52.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.52.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) ([v3.7.0](https://github.com/hugo-toha/toha/releases/tag/v3.7.0), 2 weeks ago) - A Hugo theme for personal portfolio
 - [coredns/coredns](https://github.com/coredns/coredns) ([v1.10.0](https://github.com/coredns/coredns/releases/tag/v1.10.0), 1 month ago) - CoreDNS is a DNS server that chains plugins
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (5 days ago)
-- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (6 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (6 days ago)
+- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (1 week ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio (1 week ago)
 - [Cyb3r-Jak3/docker-workerd](https://github.com/Cyb3r-Jak3/docker-workerd) - Docker image for Cloudflare workerd (1 week ago)
