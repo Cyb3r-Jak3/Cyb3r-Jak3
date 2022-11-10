@@ -11,10 +11,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.2.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.2.0), 5 days ago) - GitHub Action that checks HTML5 syntax.
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.54.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.54.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.2.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.2.0), 6 days ago) - GitHub Action that checks HTML5 syntax.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.27.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.27.0), 1 week ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.53.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.53.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) ([v3.7.0](https://github.com/hugo-toha/toha/releases/tag/v3.7.0), 1 month ago) - A Hugo theme for personal portfolio
 
 #### 👷 Check out what I'm currently working on
