@@ -11,24 +11,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.28.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.28.0), 1 day ago) - Cloudflare Terraform Provider
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.6](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.6), 1 day ago) - Common code for my python programs
+- [hugo-toha/toha](https://github.com/hugo-toha/toha) ([v3.8.0](https://github.com/hugo-toha/toha/releases/tag/v3.8.0), 1 day ago) - A Hugo theme for personal portfolio
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.28.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.28.0), 2 days ago) - Cloudflare Terraform Provider
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.6](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.6), 2 days ago) - Common code for my python programs
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.54.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.54.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) ([v7.2.0](https://github.com/Cyb3r-Jak3/html5validator-action/releases/tag/v7.2.0), 1 week ago) - GitHub Action that checks HTML5 syntax.
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (2 days ago)
-- [Cyb3r-Jak3/cloudflare-api-pretty](https://github.com/Cyb3r-Jak3/cloudflare-api-pretty) - Spotlight Version based of Cloudflare APIs Scheme (2 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (2 days ago)
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (3 days ago)
+- [Cyb3r-Jak3/cloudflare-api-pretty](https://github.com/Cyb3r-Jak3/cloudflare-api-pretty) - Spotlight Version based of Cloudflare APIs Scheme (3 days ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (1 month ago)
-- [Disabling Disqus](https://blog.cyberjake.xyz/Disabling-Disqus/) (1 month ago)
+- [Disabling Disqus](https://blog.cyberjake.xyz/Disabling-Disqus/) (2 months ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (7 months ago)
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (1 year ago)
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (1 year ago)
