@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hugo-toha/toha](https://github.com/hugo-toha/toha) ([v3.8.0](https://github.com/hugo-toha/toha/releases/tag/v3.8.0), 2 days ago) - A Hugo theme for personal portfolio
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.28.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.28.0), 3 days ago) - Cloudflare Terraform Provider
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.6](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.6), 3 days ago) - Common code for my python programs
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.19.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.19.0), 1 day ago) - 🔧 Ansible role for deploying promtail
+- [hugo-toha/toha](https://github.com/hugo-toha/toha) ([v3.8.0](https://github.com/hugo-toha/toha/releases/tag/v3.8.0), 3 days ago) - A Hugo theme for personal portfolio
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.28.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.28.0), 4 days ago) - Cloudflare Terraform Provider
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.6](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.6), 4 days ago) - Common code for my python programs
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.54.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.54.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/vercel-app-playground-debug](https://github.com/Cyb3r-Jak3/vercel-app-playground-debug) -  (1 day ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (3 days ago)
-- [Cyb3r-Jak3/cloudflare-api-pretty](https://github.com/Cyb3r-Jak3/cloudflare-api-pretty) - Spotlight Version based of Cloudflare APIs Scheme (4 days ago)
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (4 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
+- [Cyb3r-Jak3/vercel-app-playground-debug](https://github.com/Cyb3r-Jak3/vercel-app-playground-debug) -  (2 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (4 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (5 days ago)
 
 #### 📜 My recent blog posts
 
