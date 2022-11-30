@@ -11,23 +11,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.19.2](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.19.2), 1 day ago) - 🔧 Ansible role for deploying promtail
-- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) ([v2.0.0](https://github.com/Cyb3r-Jak3/common-typescript/releases/tag/v2.0.0), 2 days ago) - My common typescript code
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.29.0), 1 day ago) - Cloudflare Terraform Provider
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 day ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.19.2](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.19.2), 2 days ago) - 🔧 Ansible role for deploying promtail
+- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) ([v2.0.0](https://github.com/Cyb3r-Jak3/common-typescript/releases/tag/v2.0.0), 3 days ago) - My common typescript code
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.55.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.55.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/traefikcloudflarejwt](https://github.com/Cyb3r-Jak3/traefikcloudflarejwt) ([v0.1.0](https://github.com/Cyb3r-Jak3/traefikcloudflarejwt/releases/tag/v0.1.0), 1 week ago) - Simple Traefik middleware plugin that validates Cloudflare Access JWT tokens.
-- [hugo-toha/toha](https://github.com/hugo-toha/toha) ([v3.8.0](https://github.com/hugo-toha/toha/releases/tag/v3.8.0), 1 week ago) - A Hugo theme for personal portfolio
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 days ago)
-- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) - My common typescript code (2 days ago)
-- [Cyb3r-Jak3/traefikcloudflarejwt](https://github.com/Cyb3r-Jak3/traefikcloudflarejwt) - Simple Traefik middleware plugin that validates Cloudflare Access JWT tokens. (4 days ago)
+- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) - My common typescript code (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (3 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
+- [Cyb3r-Jak3/traefikcloudflarejwt](https://github.com/Cyb3r-Jak3/traefikcloudflarejwt) - Simple Traefik middleware plugin that validates Cloudflare Access JWT tokens. (5 days ago)
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (1 month ago)
+- [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (2 months ago)
 - [Disabling Disqus](https://blog.cyberjake.xyz/Disabling-Disqus/) (2 months ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (8 months ago)
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (1 year ago)
