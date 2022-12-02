@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 day ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.29.0), 2 days ago) - Cloudflare Terraform Provider
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.19.2](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.19.2), 3 days ago) - 🔧 Ansible role for deploying promtail
-- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) ([v2.0.0](https://github.com/Cyb3r-Jak3/common-typescript/releases/tag/v2.0.0), 4 days ago) - My common typescript code
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.29.0), 3 days ago) - Cloudflare Terraform Provider
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.19.2](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.19.2), 4 days ago) - 🔧 Ansible role for deploying promtail
+- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) ([v2.0.0](https://github.com/Cyb3r-Jak3/common-typescript/releases/tag/v2.0.0), 5 days ago) - My common typescript code
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.55.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.55.0), 1 week ago) - Go library for the Cloudflare v4 API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) - My common typescript code (1 day ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
-- [Cyb3r-Jak3/traefikcloudflarejwt](https://github.com/Cyb3r-Jak3/traefikcloudflarejwt) - Simple Traefik middleware plugin that validates Cloudflare Access JWT tokens. (6 days ago)
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (1 week ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (1 day ago)
+- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (1 day ago)
+- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) - My common typescript code (2 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (5 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (5 days ago)
 
 #### 📜 My recent blog posts
 
