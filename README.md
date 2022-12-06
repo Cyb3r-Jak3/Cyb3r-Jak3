@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.1), 1 day ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 5 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.29.0), 6 days ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.56.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.56.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.1), 2 days ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 6 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.29.0), 1 week ago) - Cloudflare Terraform Provider
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.19.2](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.19.2), 1 week ago) - 🔧 Ansible role for deploying promtail
-- [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) ([v2.0.0](https://github.com/Cyb3r-Jak3/common-typescript/releases/tag/v2.0.0), 1 week ago) - My common typescript code
 
 #### 👷 Check out what I'm currently working on
 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (1 day ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (3 days ago)
-- [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers (3 days ago)
-- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (3 days ago)
-- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (4 days ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (2 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (4 days ago)
+- [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers (4 days ago)
+- [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (4 days ago)
+- [Cyb3r-Jak3/Verkada_py](https://github.com/Cyb3r-Jak3/Verkada_py) - An Unofficial Verkada API Python Library (5 days ago)
 
 #### 📜 My recent blog posts
 
