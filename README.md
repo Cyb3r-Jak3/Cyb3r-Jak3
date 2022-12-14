@@ -11,15 +11,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.20.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.20.0), 3 days ago) - 🔧 Ansible role for deploying promtail
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.20.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.20.0), 4 days ago) - 🔧 Ansible role for deploying promtail
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.56.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.56.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.1), 1 week ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.29.0), 2 weeks ago) - Cloudflare Terraform Provider
 
 #### 👷 Check out what I'm currently working on
 
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (4 days ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (5 days ago)
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (1 week ago)
 - [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers (1 week ago)
 - [Cyb3r-Jak3/icann-lookup](https://github.com/Cyb3r-Jak3/icann-lookup) - Simple ICANN lookup site run on Cloudflare workers (1 week ago)
