@@ -11,11 +11,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.30.0), 6 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.30.0), 1 week ago) - Cloudflare Terraform Provider
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.20.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.20.0), 1 week ago) - 🔧 Ansible role for deploying promtail
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.56.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.56.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.1), 2 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 
 #### 👷 Check out what I'm currently working on
 
@@ -29,7 +29,7 @@
 
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (2 months ago)
 - [Disabling Disqus](https://blog.cyberjake.xyz/Disabling-Disqus/) (3 months ago)
-- [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (8 months ago)
+- [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (9 months ago)
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (1 year ago)
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (2 years ago)
 
