@@ -11,9 +11,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.57.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.57.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.30.0), 1 week ago) - Cloudflare Terraform Provider
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.20.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.20.0), 1 week ago) - 🔧 Ansible role for deploying promtail
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.56.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.56.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.1), 2 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 
