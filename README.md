@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.57.1](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.57.1), 2 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.57.1](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.57.1), 3 days ago) - Go library for the Cloudflare v4 API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.30.0), 1 week ago) - Cloudflare Terraform Provider
 - [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) ([1.20.0](https://github.com/patrickjahns/ansible-role-promtail/releases/tag/1.20.0), 2 weeks ago) - 🔧 Ansible role for deploying promtail
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.1), 3 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (1 day ago)
+- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (2 days ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
 - [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (2 weeks ago)
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (3 weeks ago)
