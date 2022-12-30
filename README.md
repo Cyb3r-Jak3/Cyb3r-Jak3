@@ -11,23 +11,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.31.0), 1 day ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.57.1](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.57.1), 6 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.31.0), 2 days ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.57.1](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.57.1), 1 week ago) - Go library for the Cloudflare v4 API
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.1.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.1.1), 3 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 4 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 month ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [Cyb3r-Jak3/common-typescript](https://github.com/Cyb3r-Jak3/common-typescript) ([v2.0.0](https://github.com/Cyb3r-Jak3/common-typescript/releases/tag/v2.0.0), 1 month ago) - My common typescript code
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (5 days ago)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (6 days ago)
+- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (6 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 weeks ago)
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (2 weeks ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (3 weeks ago)
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (2 months ago)
+- [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (3 months ago)
 - [Disabling Disqus](https://blog.cyberjake.xyz/Disabling-Disqus/) (3 months ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (9 months ago)
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (1 year ago)
