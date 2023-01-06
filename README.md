@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.58.1](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.58.1), 1 day ago) - Go library for the Cloudflare v4 API
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.2.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.2.0), 3 days ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.58.1](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.58.1), 2 days ago) - Go library for the Cloudflare v4 API
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.2.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.2.0), 4 days ago) - A Framework For Using HAR Files To Analyze Web Pages
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.31.0), 1 week ago) - Cloudflare Terraform Provider
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 month ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v2.0.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v2.0.0), 1 month ago) - My common typescript code
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (1 day ago)
-- [Cyb3r-Jak3/workers-letterbox](https://github.com/Cyb3r-Jak3/workers-letterbox) -  (2 days ago)
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (3 days ago)
-- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (4 days ago)
-- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (1 week ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (2 days ago)
+- [Cyb3r-Jak3/workers-letterbox](https://github.com/Cyb3r-Jak3/workers-letterbox) -  (3 days ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (4 days ago)
+- [Competitive-Cyber-Clubs/Discord-Bot](https://github.com/Competitive-Cyber-Clubs/Discord-Bot) - This is the Discord bot for the Competetive Cyber Clubs Discord. (5 days ago)
 
 #### 📜 My recent blog posts
 
