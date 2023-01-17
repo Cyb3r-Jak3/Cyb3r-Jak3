@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 5 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.32.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.32.0), 5 days ago) - Cloudflare Terraform Provider
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 6 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.32.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.32.0), 6 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.58.1](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.58.1), 1 week ago) - Go library for the Cloudflare v4 API
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.2.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.2.0), 2 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v2.0.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v2.0.0), 1 month ago) - My common typescript code
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (5 days ago)
 - [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 week ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (1 week ago)
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (1 week ago)
 
 #### 📜 My recent blog posts
 
