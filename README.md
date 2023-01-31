@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.8](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.8), 2 days ago) - Common code for my python programs
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.33.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.33.1), 5 days ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.59.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.59.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.8](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.8), 3 days ago) - Common code for my python programs
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.33.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.33.1), 6 days ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.59.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.59.0), 2 weeks ago) - Go library for the Cloudflare v4 API
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.2.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.2.0), 4 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
 
 #### 👷 Check out what I'm currently working on
 
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (2 days ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (2 days ago)
-- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks HTML5 syntax. (1 week ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (3 days ago)
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (3 days ago)
+- [Cyb3r-Jak3/html5validator-action](https://github.com/Cyb3r-Jak3/html5validator-action) - GitHub Action that checks HTML5 syntax. (2 weeks ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 weeks ago)
 
 #### 📜 My recent blog posts
