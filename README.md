@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v3.34.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v3.34.0), 1 day ago) - Cloudflare Terraform Provider
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 3 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([3.9-v7.3.11](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/3.9-v7.3.11), 1 day ago) - Alpine images with PyPy installed
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.0.0-rc2](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.0.0-rc2), 1 day ago) - Cloudflare Terraform Provider
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 6 days ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.60.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.60.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.8](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.8), 1 week ago) - Common code for my python programs
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.2.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.2.0), 1 month ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.8](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.8), 2 weeks ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-pages-sphinx](https://github.com/Cyb3r-Jak3/cloudflare-pages-sphinx) -  (2 days ago)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (2 days ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (4 days ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (4 days ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (4 days ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 day ago)
+- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (1 day ago)
+- [Cyb3r-Jak3/cloudflare-pages-sphinx](https://github.com/Cyb3r-Jak3/cloudflare-pages-sphinx) -  (5 days ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (5 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 week ago)
 
 #### 📜 My recent blog posts
 
