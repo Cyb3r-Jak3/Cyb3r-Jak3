@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([3.9-v7.3.11](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/3.9-v7.3.11), 5 days ago) - Alpine images with PyPy installed
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.0.0-rc2](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.0.0-rc2), 5 days ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.61.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.61.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([3.9-v7.3.11](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/3.9-v7.3.11), 6 days ago) - Alpine images with PyPy installed
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.0.0-rc2](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.0.0-rc2), 6 days ago) - Cloudflare Terraform Provider
 - [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.60.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.60.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.8](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.8), 2 weeks ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/wrangler-routes-repo](https://github.com/Cyb3r-Jak3/wrangler-routes-repo) -  (2 days ago)
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (3 days ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (3 days ago)
-- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (5 days ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (5 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (2 days ago)
+- [Cyb3r-Jak3/wrangler-routes-repo](https://github.com/Cyb3r-Jak3/wrangler-routes-repo) -  (3 days ago)
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (4 days ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (6 days ago)
+- [Cyb3r-Jak3/docker-workerd](https://github.com/Cyb3r-Jak3/docker-workerd) - Docker image for Cloudflare workerd (6 days ago)
 
 #### 📜 My recent blog posts
 
