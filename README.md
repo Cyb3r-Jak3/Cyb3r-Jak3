@@ -11,27 +11,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.61.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.61.0), 3 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.61.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.61.0), 4 days ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([3.9-v7.3.11](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/3.9-v7.3.11), 1 week ago) - Alpine images with PyPy installed
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.0.0-rc2](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.0.0-rc2), 1 week ago) - Cloudflare Terraform Provider
-- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 1 week ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+- [validator/validator](https://github.com/validator/validator) ([latest](https://github.com/validator/validator/releases/tag/latest), 2 weeks ago) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.0.8](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.0.8), 3 weeks ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 days ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (4 days ago)
-- [Cyb3r-Jak3/wrangler-routes-repo](https://github.com/Cyb3r-Jak3/wrangler-routes-repo) -  (5 days ago)
+- [Cyb3r-Jak3/blog-hugo](https://github.com/Cyb3r-Jak3/blog-hugo) -  (1 day ago)
+- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (1 day ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (3 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
 
 #### 📜 My recent blog posts
 
+- [Cloudflared DoH proxy](https://blog.cyberjake.xyz/Cloudflared-DoT-proxy/) (2 days ago)
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/Nginx-Proxy-R2/) (4 months ago)
 - [Disabling Disqus](https://blog.cyberjake.xyz/Disabling-Disqus/) (5 months ago)
-- [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (10 months ago)
+- [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/Cloudflared-Minecraft/) (11 months ago)
 - [New Status Site](https://blog.cyberjake.xyz/New-Status-Site/) (1 year ago)
-- [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/Github-Action-Docker/) (2 years ago)
 
 
 #### 📊 Statistics
