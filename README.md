@@ -11,16 +11,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.66.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.66.0), 2 days ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@2.17.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%402.17.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.66.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.66.0), 3 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@2.17.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%402.17.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.0-rc4](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.0-rc4), 1 week ago) - Helpful Cloudflare utility program 
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.4.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.4.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.1.0](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.1.0), 1 month ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (3 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 days ago)
 - [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 week ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
@@ -28,7 +28,7 @@
 #### 📜 My recent blog posts
 
 - [Cloudflared DoH proxy](https://blog.cyberjake.xyz/post/2023-02-17-cloudflared-doh/) (2 months ago)
-- [Nginx &#43; R2](https://blog.cyberjake.xyz/post/2022-10-01-nginx-proxy-r2/) (6 months ago)
+- [Nginx &#43; R2](https://blog.cyberjake.xyz/post/2022-10-01-nginx-proxy-r2/) (7 months ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/post/2022-03-26-cloudflared-minecraft/) (1 year ago)
 - [New Status Site](https://blog.cyberjake.xyz/post/2021-09-27-status-site/) (2 years ago)
 - [Github Actions Docker Pipeline](https://blog.cyberjake.xyz/post/2021-06-16-github-actions-docker/) (2 years ago)
