@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.68.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.68.0), 4 days ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.0.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.0.1), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.68.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.68.0), 5 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.0.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.0.1), 6 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.6.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.6.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.0-rc4](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.0-rc4), 1 month ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.1.0](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.1.0), 2 months ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-example](https://github.com/Cyb3r-Jak3/cloudflare-example) - Examples created for Cloudflare Community (2 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 days ago)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (5 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
+- [Cyb3r-Jak3/cloudflare-example](https://github.com/Cyb3r-Jak3/cloudflare-example) - Examples created for Cloudflare Community (3 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (5 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (6 days ago)
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (1 week ago)
 
 #### 📜 My recent blog posts
