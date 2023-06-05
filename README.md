@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.7.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.7.1), 4 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.7.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.7.1), 5 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.68.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.68.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.0.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.0.1), 1 week ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.0.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.0.1), 2 weeks ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.0-rc4](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.0-rc4), 1 month ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.1.0](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.1.0), 2 months ago) - Common code for my python programs
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/wrangler3-action](https://github.com/Cyb3r-Jak3/wrangler3-action) -  (3 days ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (4 days ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (5 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (6 days ago)
+- [Cyb3r-Jak3/wrangler3-action](https://github.com/Cyb3r-Jak3/wrangler3-action) -  (4 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (5 days ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (6 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
 - [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 week ago)
 
 #### 📜 My recent blog posts
