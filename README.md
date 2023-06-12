@@ -11,16 +11,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.69.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.69.0), 5 days ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.1.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.1.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.69.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.69.0), 6 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.1.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.1.0), 6 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.7.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.7.1), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.1.0](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.1.0), 2 months ago) - Common code for my python programs
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([3.9-v7.3.11](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/3.9-v7.3.11), 4 months ago) - Alpine images with PyPy installed
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (3 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (4 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (5 days ago)
 - [Cyb3r-Jak3/wrangler3-action](https://github.com/Cyb3r-Jak3/wrangler3-action) -  (1 week ago)
 - [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 week ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 week ago)
