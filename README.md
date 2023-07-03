@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.9.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.9.0), 4 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.9.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.9.0), 5 days ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.0-rc6](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.0-rc6), 1 week ago) - Helpful Cloudflare utility program 
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.70.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.70.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.1.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.1.1), 1 week ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (5 days ago)
-- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (6 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (6 days ago)
+- [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (1 week ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
 - [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (1 week ago)
