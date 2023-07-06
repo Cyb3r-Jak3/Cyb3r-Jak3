@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.71.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.71.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.72.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.72.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.9.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.9.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.0-rc6](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.0-rc6), 1 week ago) - Helpful Cloudflare utility program 
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.1.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.1.1), 2 weeks ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.3.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.3.0), 2 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.3.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.3.0), 3 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
 - [Competitive-Cyber-Clubs/School-List](https://github.com/Competitive-Cyber-Clubs/School-List) - School List for CCC Discord Bot. (1 week ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 week ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
-- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (1 week ago)
+- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (2 weeks ago)
 
 #### 📜 My recent blog posts
 
