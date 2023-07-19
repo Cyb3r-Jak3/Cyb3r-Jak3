@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.10.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.10.0), 6 days ago) - Cloudflare Terraform Provider
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v5.3.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v5.3.0), today) - My common typescript code
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.3.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.3.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.10.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.10.0), 1 week ago) - Cloudflare Terraform Provider
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.4.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.4.0), 1 week ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.2.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.2.0), 1 week ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.72.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.72.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.0-rc6](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.0-rc6), 3 weeks ago) - Helpful Cloudflare utility program 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.72.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.72.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/terraform-cloudflare-browser-ssh](https://github.com/Cyb3r-Jak3/terraform-cloudflare-browser-ssh) - Custom Terraform module to create an browser ssh application including a tunnel. (1 day ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (3 days ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 days ago)
-- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (3 days ago)
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (1 day ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
+- [Cyb3r-Jak3/terraform-cloudflare-browser-ssh](https://github.com/Cyb3r-Jak3/terraform-cloudflare-browser-ssh) - Custom Terraform module to create an browser ssh application including a tunnel. (2 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
+- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (4 days ago)
 
 #### 📜 My recent blog posts
 
