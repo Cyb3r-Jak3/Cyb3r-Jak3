@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.73.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.73.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v5.3.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v5.3.0), 1 day ago) - My common typescript code
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.3.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.3.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.0.14](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.0.14), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.73.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.73.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v5.3.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v5.3.0), 2 days ago) - My common typescript code
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.10.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.10.0), 1 week ago) - Cloudflare Terraform Provider
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.4.0](https://github.com/haralyzer/haralyzer/releases/tag/v2.4.0), 1 week ago) - A Framework For Using HAR Files To Analyze Web Pages
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 day ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (2 days ago)
-- [Cyb3r-Jak3/terraform-cloudflare-browser-ssh](https://github.com/Cyb3r-Jak3/terraform-cloudflare-browser-ssh) - Custom Terraform module to create an browser ssh application including a tunnel. (3 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (2 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (3 days ago)
+- [Cyb3r-Jak3/terraform-cloudflare-browser-ssh](https://github.com/Cyb3r-Jak3/terraform-cloudflare-browser-ssh) - Custom Terraform module to create an browser ssh application including a tunnel. (4 days ago)
 
 #### 📜 My recent blog posts
 
