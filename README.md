@@ -11,10 +11,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.12.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.12.0), 2 days ago) - Cloudflare Terraform Provider
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.5.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.5.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.1), 1 day ago) - Helpful Cloudflare utility program 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.12.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.12.0), 3 days ago) - Cloudflare Terraform Provider
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.5.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.5.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.74.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.74.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.0), 2 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v5.3.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v5.3.0), 3 weeks ago) - My common typescript code
 
 #### 👷 Check out what I'm currently working on
