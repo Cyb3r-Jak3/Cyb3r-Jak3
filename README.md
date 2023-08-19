@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.75.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.75.0), 3 days ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.5.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.5.1), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.2), 5 days ago) - Helpful Cloudflare utility program 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.75.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.75.0), 4 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.5.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.5.1), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.2), 6 days ago) - Helpful Cloudflare utility program 
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.12.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.12.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v5.3.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v5.3.0), 1 month ago) - My common typescript code
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
-- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (3 days ago)
-- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (4 days ago)
-- [Cyb3r-Jak3/terraform-cloudflare-api-permissions](https://github.com/Cyb3r-Jak3/terraform-cloudflare-api-permissions) - This is a simple terraform module that get all the possible permissions for a Cloudflare API token. Can use as a replacement for `cloudflare_api_token_permission_groups` data source.  (5 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (5 days ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 day ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
+- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (4 days ago)
+- [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (5 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (6 days ago)
 
 #### 📜 My recent blog posts
 
