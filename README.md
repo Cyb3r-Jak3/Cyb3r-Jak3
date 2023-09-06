@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/pages-shared@0.8.2](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.8.2), 6 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.14.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.14.0), today) - Cloudflare Terraform Provider
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.7.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.7.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.76.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.76.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.13.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.13.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.3), 2 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) ([v5.3.0](https://github.com/Cyb3r-Jak3/workers-common/releases/tag/v5.3.0), 1 month ago) - My common typescript code
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (4 days ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 week ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 weeks ago)
+- [Cyb3r-Jak3/go_har](https://github.com/Cyb3r-Jak3/go_har) - GoLang Module for parsing HAR Files (1 day ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (5 days ago)
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (5 days ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (2 weeks ago)
 
 #### 📜 My recent blog posts
 
