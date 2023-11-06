@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.18.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.18.0), 5 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.18.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.18.0), 6 days ago) - Cloudflare Terraform Provider
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.15.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.15.0), 1 week ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.80.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.80.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.13-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.13-2.7%2C3.9%2C3.10), 1 month ago) - Alpine images with PyPy installed
@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 day ago)
-- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (1 day ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (2 days ago)
+- [Cyb3r-Jak3/portfolio](https://github.com/Cyb3r-Jak3/portfolio) -  Source content for my portfolio website. (2 days ago)
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code (2 weeks ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 weeks ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (2 weeks ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (3 weeks ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (3 weeks ago)
 
 #### 📜 My recent blog posts
 
