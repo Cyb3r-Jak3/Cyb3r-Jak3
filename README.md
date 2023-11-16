@@ -11,9 +11,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.19.0), 1 day ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.19.0), 2 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.81.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.81.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.15.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.15.0), 2 weeks ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.15.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.15.0), 3 weeks ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.13-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.13-2.7%2C3.9%2C3.10), 1 month ago) - Alpine images with PyPy installed
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.3), 2 months ago) - Helpful Cloudflare utility program 
 
