@@ -11,15 +11,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.84.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.84.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.22.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.22.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.22.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.22.1), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.84.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.84.0), 2 days ago) - Go library for the Cloudflare v4 API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.20.0), 3 weeks ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.13-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.13-2.7%2C3.9%2C3.10), 2 months ago) - Alpine images with PyPy installed
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.3), 4 months ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (4 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (5 days ago)
 - [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (1 week ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 weeks ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 month ago)
