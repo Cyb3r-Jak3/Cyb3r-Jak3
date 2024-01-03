@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.14-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.14-2.7%2C3.9%2C3.10), 1 day ago) - Alpine images with PyPy installed
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.85.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.85.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.22.2](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.22.2), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.14-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.14-2.7%2C3.9%2C3.10), 2 days ago) - Alpine images with PyPy installed
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.21.0), 1 week ago) - Cloudflare Terraform Provider
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.22.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.22.1), 1 week ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.84.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.84.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.3), 4 months ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 day ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
-- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (3 days ago)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (4 days ago)
-- [Cyb3r-Jak3/terraform-cloudflare-browser-ssh](https://github.com/Cyb3r-Jak3/terraform-cloudflare-browser-ssh) - Custom Terraform module to create an browser ssh application including a tunnel. (4 days ago)
+- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (1 day ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (2 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
+- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (4 days ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (5 days ago)
 
 #### 📜 My recent blog posts
 
