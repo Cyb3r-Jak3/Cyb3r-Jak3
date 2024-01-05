@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.85.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.85.0), 2 days ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.22.2](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.22.2), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.14-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.14-2.7%2C3.9%2C3.10), 3 days ago) - Alpine images with PyPy installed
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.22.3](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.22.3), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.85.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.85.0), 3 days ago) - Go library for the Cloudflare v4 API
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.14-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.14-2.7%2C3.9%2C3.10), 4 days ago) - Alpine images with PyPy installed
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.21.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.1.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.1.3), 4 months ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 day ago)
-- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (2 days ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (3 days ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (2 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
+- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (3 days ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (4 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (4 days ago)
 
 #### 📜 My recent blog posts
 
