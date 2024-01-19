@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.86.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.86.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.22.5](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.22.5), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.4](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.4), 5 days ago) - Docker image that builds https://github.com/letsencrypt/unbound_exporter
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.23.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.23.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.86.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.86.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.4](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.4), 6 days ago) - Docker image that builds https://github.com/letsencrypt/unbound_exporter
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.22.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.14-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.14-2.7%2C3.9%2C3.10), 2 weeks ago) - Alpine images with PyPy installed
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image that builds https://github.com/letsencrypt/unbound_exporter (5 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (6 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (3 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image that builds https://github.com/letsencrypt/unbound_exporter (6 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 week ago)
 - [Cyb3r-Jak3/terraform-state-manager](https://github.com/Cyb3r-Jak3/terraform-state-manager) - Terraform State Manager (TSM) is a HTTP backend for Terraform. Offers multi user support (1 week ago)
 
