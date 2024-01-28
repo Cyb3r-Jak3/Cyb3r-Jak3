@@ -11,8 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.25.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.25.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.23.0), 4 days ago) - Cloudflare Terraform Provider
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.25.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.25.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.23.0), 5 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.86.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.86.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.4](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.4), 2 weeks ago) - Docker image for running https://github.com/letsencrypt/unbound_exporter
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.14-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.14-2.7%2C3.9%2C3.10), 3 weeks ago) - Alpine images with PyPy installed
