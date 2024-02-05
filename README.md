@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.26.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.26.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.87.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.87.0), 4 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.26.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.26.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.87.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.87.0), 5 days ago) - Go library for the Cloudflare v4 API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.23.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.4](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.4), 3 weeks ago) - Docker image for running https://github.com/letsencrypt/unbound_exporter
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.14-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.14-2.7%2C3.9%2C3.10), 1 month ago) - Alpine images with PyPy installed
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (6 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 weeks ago)
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (3 weeks ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (3 weeks ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (3 weeks ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (4 weeks ago)
 
 #### 📜 My recent blog posts
 
