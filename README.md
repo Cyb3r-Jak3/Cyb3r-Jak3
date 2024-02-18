@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.28.3](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.28.3), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [Cyb3r-Jak3/html5validator-action-experimental](https://github.com/Cyb3r-Jak3/html5validator-action-experimental) ([v2.0.1](https://github.com/Cyb3r-Jak3/html5validator-action-experimental/releases/tag/v2.0.1), 3 days ago) - A copy of my HTML5validator action that uses an experimental branch of html5validator
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 4 days ago) - Go library for the Cloudflare v4 API
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.24.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.24.0), 1 week ago) - Cloudflare Terraform Provider
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.4](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.4), 1 month ago) - Docker image for running https://github.com/letsencrypt/unbound_exporter
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.15-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.15-2.7%2C3.9%2C3.10), 1 day ago) - Alpine images with PyPy installed
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.0), 1 day ago) - Helpful Cloudflare utility program 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.28.3](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.28.3), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [Cyb3r-Jak3/html5validator-action-experimental](https://github.com/Cyb3r-Jak3/html5validator-action-experimental) ([v2.0.1](https://github.com/Cyb3r-Jak3/html5validator-action-experimental/releases/tag/v2.0.1), 4 days ago) - A copy of my HTML5validator action that uses an experimental branch of html5validator
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 5 days ago) - Go library for the Cloudflare v4 API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 day ago)
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (1 day ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
-- [Cyb3r-Jak3/html5validator-action-experimental](https://github.com/Cyb3r-Jak3/html5validator-action-experimental) - A copy of my HTML5validator action that uses an experimental branch of html5validator (3 days ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 day ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 day ago)
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (2 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
 
 #### 📜 My recent blog posts
 
