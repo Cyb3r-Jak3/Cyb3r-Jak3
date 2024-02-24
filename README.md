@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.29.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.29.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 2 days ago) - Cloudflare Terraform Provider
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.15-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.15-2.7%2C3.9%2C3.10), 6 days ago) - Alpine images with PyPy installed
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.0), 6 days ago) - Helpful Cloudflare utility program 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.29.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.29.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 3 days ago) - Cloudflare Terraform Provider
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.15-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.15-2.7%2C3.9%2C3.10), 1 week ago) - Alpine images with PyPy installed
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.0), 1 week ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/html5validator-action-experimental](https://github.com/Cyb3r-Jak3/html5validator-action-experimental) ([v2.0.1](https://github.com/Cyb3r-Jak3/html5validator-action-experimental/releases/tag/v2.0.1), 1 week ago) - A copy of my HTML5validator action that uses an experimental branch of html5validator
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (6 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (6 days ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (6 days ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (6 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 week ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 week ago)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (1 week ago)
 
 #### 📜 My recent blog posts
