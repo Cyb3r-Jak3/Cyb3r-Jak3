@@ -11,8 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.29.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.29.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 3 days ago) - Cloudflare Terraform Provider
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.29.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.29.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 4 days ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.15-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.15-2.7%2C3.9%2C3.10), 1 week ago) - Alpine images with PyPy installed
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.0), 1 week ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/html5validator-action-experimental](https://github.com/Cyb3r-Jak3/html5validator-action-experimental) ([v2.0.1](https://github.com/Cyb3r-Jak3/html5validator-action-experimental/releases/tag/v2.0.1), 1 week ago) - A copy of my HTML5validator action that uses an experimental branch of html5validator
