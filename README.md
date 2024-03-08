@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.26.0), 1 day ago) - Cloudflare Terraform Provider
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.31.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.31.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.26.0), 2 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.89.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.89.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.15-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.15-2.7%2C3.9%2C3.10), 2 weeks ago) - Alpine images with PyPy installed
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.0), 2 weeks ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/html5validator-action-experimental](https://github.com/Cyb3r-Jak3/html5validator-action-experimental) ([v2.0.1](https://github.com/Cyb3r-Jak3/html5validator-action-experimental/releases/tag/v2.0.1), 3 weeks ago) - A copy of my HTML5validator action that uses an experimental branch of html5validator
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (3 days ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (5 days ago)
-- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (5 days ago)
+- [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (4 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (6 days ago)
+- [Cyb3r-Jak3/preimer_league_api](https://github.com/Cyb3r-Jak3/preimer_league_api) - API for pulling Premier League Data (6 days ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 weeks ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 weeks ago)
 
