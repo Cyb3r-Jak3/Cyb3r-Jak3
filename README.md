@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.90.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.90.0), 1 day ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0-beta.5](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0-beta.5), 1 day ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.26.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.15-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.15-2.7%2C3.9%2C3.10), 3 weeks ago) - Alpine images with PyPy installed
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.0), 3 weeks ago) - Helpful Cloudflare utility program 
