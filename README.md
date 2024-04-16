@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0), 3 days ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0), 4 days ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 1 week ago) - Cloudflare Terraform Provider
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.28.1](https://github.com/bwmarrin/discordgo/releases/tag/v0.28.1), 2 weeks ago) -  (Golang) Go bindings for Discord
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.1), 1 month ago) - Helpful Cloudflare utility program 
@@ -27,7 +27,7 @@
 
 #### 📜 My recent blog posts
 
-- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (3 weeks ago)
+- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (4 weeks ago)
 - [Cloudflared DoH proxy](https://blog.cyberjake.xyz/post/2023-02-17-cloudflared-doh/) (1 year ago)
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/post/2022-10-01-nginx-proxy-r2/) (2 years ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/post/2022-03-26-cloudflared-minecraft/) (2 years ago)
