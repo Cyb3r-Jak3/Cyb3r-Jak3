@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.31.0), 4 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.31.0), 5 days ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.16-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.16-2.7%2C3.9%2C3.10), 1 week ago) - Alpine images with PyPy installed
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.1.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.1.0), 1 week ago) - The official Go library for the Cloudflare API
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.28.1](https://github.com/bwmarrin/discordgo/releases/tag/v0.28.1), 1 month ago) -  (Golang) Go bindings for Discord
@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (4 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (5 days ago)
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 week ago)
 - [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 week ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 weeks ago)
