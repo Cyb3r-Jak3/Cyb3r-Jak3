@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.31.0), 1 week ago) - Cloudflare Terraform Provider
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.16-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.16-2.7%2C3.9%2C3.10), 1 week ago) - Alpine images with PyPy installed
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.1.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.1.0), 2 weeks ago) - The official Go library for the Cloudflare API
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.32.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.32.0), 1 day ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.95.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.95.0), 1 day ago) - The official Go library for the Cloudflare API
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.16-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.16-2.7%2C3.9%2C3.10), 2 weeks ago) - Alpine images with PyPy installed
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.28.1](https://github.com/bwmarrin/discordgo/releases/tag/v0.28.1), 1 month ago) -  (Golang) Go bindings for Discord
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.1), 1 month ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (1 day ago)
+- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (2 days ago)
 - [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 week ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 week ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (2 weeks ago)
 - [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 weeks ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 weeks ago)
 
