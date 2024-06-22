@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.98.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.98.0), 2 days ago) - The official Go library for the Cloudflare API
+- [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v2.0.0), 1 day ago) - Github Action for deploying to Cloudflare pages when needed.
+- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v2.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v2.0.0), 1 day ago) - Github Action to purge Cloudflare cache
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.98.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.98.0), 3 days ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.35.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.35.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.16-2.7,3.9,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.16-2.7%2C3.9%2C3.10), 1 month ago) - Alpine images with PyPy installed
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.28.1](https://github.com/bwmarrin/discordgo/releases/tag/v0.28.1), 2 months ago) -  (Golang) Go bindings for Discord
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.2.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.2.1), 3 months ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 day ago)
+- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) - Github Action to purge Cloudflare cache (1 day ago)
+- [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) - Github Action for deploying to Cloudflare pages when needed. (1 day ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 - [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 week ago)
-- [Cyb3r-Jak3/tofu-actions-debug](https://github.com/Cyb3r-Jak3/tofu-actions-debug) -  (3 weeks ago)
-- [Cyb3r-Jak3/terraform-cloudflare-browser-ssh](https://github.com/Cyb3r-Jak3/terraform-cloudflare-browser-ssh) - Custom Terraform module to create an browser ssh application including a tunnel. (1 month ago)
 
 #### 📜 My recent blog posts
 
