@@ -11,23 +11,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.37.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.37.0), 5 days ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.99.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.99.0), 1 week ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.4.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.4.0), 1 day ago) - The official Go library for the Cloudflare API
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.37.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.37.0), 6 days ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.6](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.6), 3 weeks ago) - Docker image for running https://github.com/letsencrypt/unbound_exporter
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v2.0.0), 3 weeks ago) - Github Action for deploying to Cloudflare pages when needed.
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v2.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v2.0.0), 3 weeks ago) - Github Action to purge Cloudflare cache
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (4 days ago)
-- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (5 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
+- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (5 days ago)
+- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (6 days ago)
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 week ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) - Github Action for deploying to Cloudflare pages when needed. (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (3 months ago)
+- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (4 months ago)
 - [Cloudflared DoH proxy](https://blog.cyberjake.xyz/post/2023-02-17-cloudflared-doh/) (1 year ago)
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/post/2022-10-01-nginx-proxy-r2/) (2 years ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/post/2022-03-26-cloudflared-minecraft/) (2 years ago)
