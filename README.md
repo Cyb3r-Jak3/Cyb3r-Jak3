@@ -11,9 +11,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.100.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.100.0), 4 days ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.100.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.100.0), 5 days ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.37.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.37.0), 1 week ago) - Cloudflare Terraform Provider
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.6](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.6), 3 weeks ago) - Docker image for running https://github.com/letsencrypt/unbound_exporter
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.6](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.6), 4 weeks ago) - Docker image for running https://github.com/letsencrypt/unbound_exporter
 - [Cyb3r-Jak3/actions-cloudflare-pages](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-pages/releases/tag/v2.0.0), 1 month ago) - Github Action for deploying to Cloudflare pages when needed.
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v2.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v2.0.0), 1 month ago) - Github Action to purge Cloudflare cache
 
