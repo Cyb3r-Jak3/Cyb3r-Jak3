@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.39.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.39.0), 6 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.39.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.39.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.0), 1 week ago) - Helpful Cloudflare utility program 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.101.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.101.0), 1 week ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.101.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.101.0), 2 weeks ago) - The official Go library for the Cloudflare API
 - [zerotier/terraform-provider-zerotier](https://github.com/zerotier/terraform-provider-zerotier) ([v1.5.1](https://github.com/zerotier/terraform-provider-zerotier/releases/tag/v1.5.1), 2 weeks ago) - Terraform provider for controlling ZeroTier Central
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) ([v0.4.6](https://github.com/Cyb3r-Jak3/docker-unbound-exporter/releases/tag/v0.4.6), 1 month ago) - Docker image for running https://github.com/letsencrypt/unbound_exporter
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
-- [Cyb3r-Jak3/tofu-actions-debug](https://github.com/Cyb3r-Jak3/tofu-actions-debug) -  (3 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (5 days ago)
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (6 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
+- [Cyb3r-Jak3/tofu-actions-debug](https://github.com/Cyb3r-Jak3/tofu-actions-debug) -  (4 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (6 days ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (1 week ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 
 #### 📜 My recent blog posts
