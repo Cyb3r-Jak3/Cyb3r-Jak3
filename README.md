@@ -11,17 +11,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.4.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.4.1), 2 days ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.102.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.102.0), 2 days ago) - The official Go library for the Cloudflare API
+- [zerotier/terraform-provider-zerotier](https://github.com/zerotier/terraform-provider-zerotier) ([v1.6.0](https://github.com/zerotier/terraform-provider-zerotier/releases/tag/v1.6.0), 1 day ago) - Terraform provider for controlling ZeroTier Central
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.4.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.4.1), 3 days ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.102.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.102.0), 3 days ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.39.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.39.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.0), 1 week ago) - Helpful Cloudflare utility program 
-- [zerotier/terraform-provider-zerotier](https://github.com/zerotier/terraform-provider-zerotier) ([v1.5.1](https://github.com/zerotier/terraform-provider-zerotier/releases/tag/v1.5.1), 2 weeks ago) - Terraform provider for controlling ZeroTier Central
 
 #### 👷 Check out what I'm currently working on
 
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (2 days ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (4 days ago)
-- [Cyb3r-Jak3/tofu-actions-debug](https://github.com/Cyb3r-Jak3/tofu-actions-debug) -  (6 days ago)
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages (3 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (5 days ago)
+- [Cyb3r-Jak3/tofu-actions-debug](https://github.com/Cyb3r-Jak3/tofu-actions-debug) -  (1 week ago)
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 week ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 
