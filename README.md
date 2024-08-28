@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.2.1](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.2.1), 2 days ago) - Common code for my python programs
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 6 days ago) - Cloudflare Terraform Provider
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.2.1](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.2.1), 3 days ago) - Common code for my python programs
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 1 week ago) - Cloudflare Terraform Provider
 - [zerotier/terraform-provider-zerotier](https://github.com/zerotier/terraform-provider-zerotier) ([v1.6.0](https://github.com/zerotier/terraform-provider-zerotier/releases/tag/v1.6.0), 1 week ago) - Terraform provider for controlling ZeroTier Central
-- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.4.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.4.1), 1 week ago) - A Framework For Using HAR Files To Analyze Web Pages
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.102.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.102.0), 1 week ago) - The official Go library for the Cloudflare API
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) ([v2.4.1](https://github.com/haralyzer/haralyzer/releases/tag/v2.4.1), 2 weeks ago) - A Framework For Using HAR Files To Analyze Web Pages
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.102.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.102.0), 2 weeks ago) - The official Go library for the Cloudflare API
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 day ago)
-- [Cyb3r-Jak3/homebrew-tap](https://github.com/Cyb3r-Jak3/homebrew-tap) - My homebrew tap (2 days ago)
-- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (2 days ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (5 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
+- [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) - Common code for my python programs (3 days ago)
+- [Cyb3r-Jak3/homebrew-tap](https://github.com/Cyb3r-Jak3/homebrew-tap) - My homebrew tap (3 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (6 days ago)
 - [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (1 week ago)
 
 #### 📜 My recent blog posts
