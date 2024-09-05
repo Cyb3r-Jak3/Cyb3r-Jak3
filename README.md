@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 3 days ago) - Alpine images with PyPy installed
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.41.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.41.0), 1 day ago) - Cloudflare Terraform Provider
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 4 days ago) - Alpine images with PyPy installed
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.103.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.103.0), 1 week ago) - The official Go library for the Cloudflare API
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.2.1](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.2.1), 1 week ago) - Common code for my python programs
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 2 weeks ago) - Cloudflare Terraform Provider
 - [zerotier/terraform-provider-zerotier](https://github.com/zerotier/terraform-provider-zerotier) ([v1.6.0](https://github.com/zerotier/terraform-provider-zerotier/releases/tag/v1.6.0), 2 weeks ago) - Terraform provider for controlling ZeroTier Central
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (1 day ago)
-- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
-- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (3 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (2 days ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (3 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
+- [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (4 days ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 
 #### 📜 My recent blog posts
