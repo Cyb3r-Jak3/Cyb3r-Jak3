@@ -11,11 +11,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.104.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.104.0), 1 day ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.104.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.104.0), 2 days ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.41.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.41.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 1 week ago) - Alpine images with PyPy installed
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.2.1](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.2.1), 2 weeks ago) - Common code for my python programs
-- [zerotier/terraform-provider-zerotier](https://github.com/zerotier/terraform-provider-zerotier) ([v1.6.0](https://github.com/zerotier/terraform-provider-zerotier/releases/tag/v1.6.0), 3 weeks ago) - Terraform provider for controlling ZeroTier Central
+- [zerotier/terraform-provider-zerotier](https://github.com/zerotier/terraform-provider-zerotier) ([v1.6.0](https://github.com/zerotier/terraform-provider-zerotier/releases/tag/v1.6.0), 4 weeks ago) - Terraform provider for controlling ZeroTier Central
 
 #### 👷 Check out what I'm currently working on
 
