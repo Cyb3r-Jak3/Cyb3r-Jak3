@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.107.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.107.0), 3 days ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.107.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.107.0), 4 days ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.43.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.43.0), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.3), 3 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 1 month ago) - Alpine images with PyPy installed
@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (1 day ago)
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (6 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (2 days ago)
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (1 week ago)
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 week ago)
 - [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 weeks ago)
-- [Cyb3r-Jak3/docker-image-retag](https://github.com/Cyb3r-Jak3/docker-image-retag) - Retags images to my docker registry (2 weeks ago)
 
 #### 📜 My recent blog posts
 
