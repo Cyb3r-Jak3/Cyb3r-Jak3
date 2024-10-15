@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.107.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.107.0), 5 days ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.107.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.107.0), 6 days ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.43.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.43.0), 2 weeks ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.3), 3 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 1 month ago) - Alpine images with PyPy installed
@@ -19,15 +19,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (3 days ago)
-- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (3 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (4 days ago)
+- [Cyb3r-Jak3/html5validator-docker](https://github.com/Cyb3r-Jak3/html5validator-docker) - A Docker image for HTML and CSS validation.  (4 days ago)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (1 week ago)
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 week ago)
 - [Cyb3r-Jak3/blog](https://github.com/Cyb3r-Jak3/blog) - Public repo for my blog (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (6 months ago)
+- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (7 months ago)
 - [Cloudflared DoH proxy](https://blog.cyberjake.xyz/post/2023-02-17-cloudflared-doh/) (2 years ago)
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/post/2022-10-01-nginx-proxy-r2/) (2 years ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/post/2022-03-26-cloudflared-minecraft/) (2 years ago)
