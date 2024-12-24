@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (1 day ago)
 - [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (2 weeks ago)
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code for Cloudflare Workers (4 weeks ago)
 - [Cyb3r-Jak3/workers-letterbox](https://github.com/Cyb3r-Jak3/workers-letterbox) -  (1 month ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 month ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 month ago)
 
 #### 📜 My recent blog posts
 
