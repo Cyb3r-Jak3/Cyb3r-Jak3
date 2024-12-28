@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.49.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.49.1), 1 day ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.49.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.49.1), 2 days ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.3), 3 months ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 3 months ago) - Alpine images with PyPy installed
 - [Cyb3r-Jak3/common-python](https://github.com/Cyb3r-Jak3/common-python) ([v0.2.1](https://github.com/Cyb3r-Jak3/common-python/releases/tag/v0.2.1), 4 months ago) - Common code for my python programs
@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (4 days ago)
+- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (5 days ago)
 - [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (3 weeks ago)
 - [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code for Cloudflare Workers (1 month ago)
 - [Cyb3r-Jak3/workers-letterbox](https://github.com/Cyb3r-Jak3/workers-letterbox) -  (1 month ago)
