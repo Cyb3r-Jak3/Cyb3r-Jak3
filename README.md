@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.114.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.114.0), 6 days ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.114.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.114.0), 1 week ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.0.0-rc1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.0.0-rc1), 1 week ago) - Cloudflare Terraform Provider
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.2.0](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.2.0), 1 week ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.3), 4 months ago) - Helpful Cloudflare utility program 
@@ -23,7 +23,7 @@
 - [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (1 week ago)
 - [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (1 week ago)
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
-- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (1 week ago)
+- [Cyb3r-Jak3/alpine-tomcat](https://github.com/Cyb3r-Jak3/alpine-tomcat) - Docker images that combine Eclipse Temurinwith tomcat (2 weeks ago)
 
 #### 📜 My recent blog posts
 
