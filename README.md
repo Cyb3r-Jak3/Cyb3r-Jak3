@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.51.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.51.0), 3 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.51.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.51.0), 4 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.114.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.114.0), 1 week ago) - The official Go library for the Cloudflare API
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.2.0](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.2.0), 2 weeks ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.3), 4 months ago) - Helpful Cloudflare utility program 
@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (4 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (5 days ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 week ago)
 - [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (2 weeks ago)
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (2 weeks ago)
