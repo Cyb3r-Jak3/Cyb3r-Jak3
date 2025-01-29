@@ -11,16 +11,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.5), 1 day ago) - Helpful Cloudflare utility program 
-- [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 1 day ago) - Simple go application to open AWS console
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.51.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.51.0), 6 days ago) - Cloudflare Terraform Provider
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.114.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.114.0), 1 week ago) - The official Go library for the Cloudflare API
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.5), 2 days ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 2 days ago) - Simple go application to open AWS console
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.51.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.51.0), 1 week ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.114.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.114.0), 2 weeks ago) - The official Go library for the Cloudflare API
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.2.0](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.2.0), 2 weeks ago) - Repo for my Cloudflared Helm Chart
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) - Simple go application to open AWS console (2 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
+- [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) - Simple go application to open AWS console (3 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (3 days ago)
 - [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 week ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (2 weeks ago)
 - [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (2 weeks ago)
