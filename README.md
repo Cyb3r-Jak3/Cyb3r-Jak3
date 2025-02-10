@@ -11,16 +11,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.0](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.0), 1 day ago) - Repo for my Cloudflared Helm Chart
-- [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) ([v1.0.2](https://github.com/Cyb3r-Jak3/terraform-provider-discord/releases/tag/v1.0.2), 6 days ago) - Terraform provider for Discord
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.5), 1 week ago) - Helpful Cloudflare utility program 
-- [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 1 week ago) - Simple go application to open AWS console
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.0](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.0), 2 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) ([v1.0.2](https://github.com/Cyb3r-Jak3/terraform-provider-discord/releases/tag/v1.0.2), 1 week ago) - Terraform provider for Discord
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.5), 2 weeks ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 2 weeks ago) - Simple go application to open AWS console
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 5 months ago) - Alpine images with PyPy installed
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 day ago)
-- [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) - Terraform provider for Discord (6 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (2 days ago)
+- [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) - Terraform provider for Discord (1 week ago)
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 week ago)
 - [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) - Simple go application to open AWS console (2 weeks ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 weeks ago)
