@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.0](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.0), 3 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.0](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.0), 4 days ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) ([v1.0.2](https://github.com/Cyb3r-Jak3/terraform-provider-discord/releases/tag/v1.0.2), 1 week ago) - Terraform provider for Discord
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.5), 2 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 2 weeks ago) - Simple go application to open AWS console
@@ -19,15 +19,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (3 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (2 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (4 days ago)
 - [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) - Terraform provider for Discord (1 week ago)
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) - Alpine images with PyPy installed (1 week ago)
-- [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) - Simple go application to open AWS console (2 weeks ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (10 months ago)
+- [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (11 months ago)
 - [Cloudflared DoH proxy](https://blog.cyberjake.xyz/post/2023-02-17-cloudflared-doh/) (2 years ago)
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/post/2022-10-01-nginx-proxy-r2/) (2 years ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/post/2022-03-26-cloudflared-minecraft/) (2 years ago)
