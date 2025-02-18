@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.1](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.1), 3 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.1](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.1), 4 days ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) ([v1.0.2](https://github.com/Cyb3r-Jak3/terraform-provider-discord/releases/tag/v1.0.2), 2 weeks ago) - Terraform provider for Discord
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.3.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.3.5), 3 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 3 weeks ago) - Simple go application to open AWS console
@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (3 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (4 days ago)
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code for Cloudflare Workers (5 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (4 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (5 days ago)
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code for Cloudflare Workers (6 days ago)
 - [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 week ago)
 - [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) - Terraform provider for Discord (2 weeks ago)
 
