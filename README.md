@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.0-rc1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.0-rc1), 6 days ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.0-rc1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.0-rc1), 1 week ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.3](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.3), 1 week ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.4.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.4.0), 1 week ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Cyb3r-Jak3/terraform-provider-discord](https://github.com/Cyb3r-Jak3/terraform-provider-discord) ([v1.0.2](https://github.com/Cyb3r-Jak3/terraform-provider-discord/releases/tag/v1.0.2), 2 months ago) - Terraform provider for Discord
@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (1 day ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (4 days ago)
+- [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (2 days ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (5 days ago)
 - [Cyb3r-Jak3/go_har](https://github.com/Cyb3r-Jak3/go_har) - GoLang Module for parsing HAR Files (1 week ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
