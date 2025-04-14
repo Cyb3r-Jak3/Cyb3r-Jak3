@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (1 day ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (6 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (1 day ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 day ago)
+- [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (2 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
+- [Cyb3r-Jak3/go_har](https://github.com/Cyb3r-Jak3/go_har) - GoLang Module for parsing HAR Files (1 week ago)
 
 #### 📜 My recent blog posts
 
