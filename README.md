@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.2), 1 day ago) - Helpful Cloudflare utility program 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.3](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.3), 1 week ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.2), 2 days ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.3](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.3), 2 weeks ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.4.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.4.0), 2 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 2 months ago) - Simple go application to open AWS console
 - [Cyb3r-Jak3/docker-alpine-pypy](https://github.com/Cyb3r-Jak3/docker-alpine-pypy) ([7.3.17-2.7,3.10](https://github.com/Cyb3r-Jak3/docker-alpine-pypy/releases/tag/7.3.17-2.7%2C3.10), 7 months ago) - Alpine images with PyPy installed
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 day ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (2 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (4 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (2 days ago)
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (3 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (5 days ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (5 days ago)
 
 #### 📜 My recent blog posts
 
