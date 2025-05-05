@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.4.2](https://github.com/cloudflare/cloudflared/releases/tag/2025.4.2), 4 days ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.4.2](https://github.com/cloudflare/cloudflared/releases/tag/2025.4.2), 5 days ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) ([v2.2.0](https://github.com/onedr0p/exportarr/releases/tag/v2.2.0), 2 weeks ago) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.2), 2 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.3](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.3), 1 month ago) - Repo for my Cloudflared Helm Chart
@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (6 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (3 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 week ago)
 - [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (1 week ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 week ago)
 
