@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.4](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.4), 5 days ago) - Repo for my Cloudflared Helm Chart
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.4.2](https://github.com/cloudflare/cloudflared/releases/tag/2025.4.2), 1 week ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.3), 1 day ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.4](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.4), 6 days ago) - Repo for my Cloudflared Helm Chart
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.4.2](https://github.com/cloudflare/cloudflared/releases/tag/2025.4.2), 2 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) ([v2.2.0](https://github.com/onedr0p/exportarr/releases/tag/v2.2.0), 3 weeks ago) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.2](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.2), 3 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/go-aws-console](https://github.com/Cyb3r-Jak3/go-aws-console) ([v0.1.3-rc5](https://github.com/Cyb3r-Jak3/go-aws-console/releases/tag/v0.1.3-rc5), 3 months ago) - Simple go application to open AWS console
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (5 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (6 days ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (6 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
+- [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 day ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (1 day ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (6 days ago)
 
 #### 📜 My recent blog posts
 
