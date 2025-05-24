@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (4 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (1 day ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (5 days ago)
 - [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 week ago)
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
 - [Cyb3r-Jak3/pypy-flask](https://github.com/Cyb3r-Jak3/pypy-flask) - Docker base image for deploying flask applications with pypy (1 week ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (1 week ago)
 
 #### 📜 My recent blog posts
 
