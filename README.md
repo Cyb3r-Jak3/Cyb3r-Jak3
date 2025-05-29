@@ -11,16 +11,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.29.0](https://github.com/bwmarrin/discordgo/releases/tag/v0.29.0), 4 days ago) -  (Golang) Go bindings for Discord
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.5.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.5.0), 1 week ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.29.0](https://github.com/bwmarrin/discordgo/releases/tag/v0.29.0), 5 days ago) -  (Golang) Go bindings for Discord
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.5.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.5.0), 2 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.3](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.3), 2 weeks ago) - Helpful Cloudflare utility program 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.4](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.4), 2 weeks ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.4](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.4), 3 weeks ago) - Repo for my Cloudflared Helm Chart
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) ([v2.2.0](https://github.com/onedr0p/exportarr/releases/tag/v2.2.0), 1 month ago) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
-- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (5 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (4 days ago)
+- [Cyb3r-Jak3/champlain-discord-bot](https://github.com/Cyb3r-Jak3/champlain-discord-bot) - A simple bot that does reaction roles and rule reading verification.  (6 days ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
 - [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 week ago)
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
