@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.7](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.7), 6 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.7](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.7), 1 week ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.6.1](https://github.com/cloudflare/cloudflared/releases/tag/2025.6.1), 1 week ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.5), 2 weeks ago) - Helpful Cloudflare utility program 
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.29.0](https://github.com/bwmarrin/discordgo/releases/tag/v0.29.0), 1 month ago) -  (Golang) Go bindings for Discord
@@ -19,10 +19,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (2 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
-- [Cyb3r-Jak3/workers-world-dns-resolver](https://github.com/Cyb3r-Jak3/workers-world-dns-resolver) - Site to lookup DNS records globally (4 days ago)
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (6 days ago)
+- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (3 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (4 days ago)
+- [Cyb3r-Jak3/workers-world-dns-resolver](https://github.com/Cyb3r-Jak3/workers-world-dns-resolver) - Site to lookup DNS records globally (5 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 
 #### 📜 My recent blog posts
