@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (3 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (4 days ago)
-- [Cyb3r-Jak3/workers-world-dns-resolver](https://github.com/Cyb3r-Jak3/workers-world-dns-resolver) - Site to lookup DNS records globally (5 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 day ago)
+- [Cyb3r-Jak3/terraform-cloudflare-r2-api-token](https://github.com/Cyb3r-Jak3/terraform-cloudflare-r2-api-token) - Terraform module to create a Cloudflare API token that have bucket scope tokens. (4 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (5 days ago)
+- [Cyb3r-Jak3/workers-world-dns-resolver](https://github.com/Cyb3r-Jak3/workers-world-dns-resolver) - Site to lookup DNS records globally (6 days ago)
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
 
 #### 📜 My recent blog posts
 
