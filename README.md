@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 1 day ago) - Repo for my Cloudflared Helm Chart
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 2 days ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 2 days ago) - Repo for my Cloudflared Helm Chart
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 3 days ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.5), 3 weeks ago) - Helpful Cloudflare utility program 
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.29.0](https://github.com/bwmarrin/discordgo/releases/tag/v0.29.0), 1 month ago) -  (Golang) Go bindings for Discord
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) ([v2.2.0](https://github.com/onedr0p/exportarr/releases/tag/v2.2.0), 2 months ago) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 day ago)
-- [Cyb3r-Jak3/traefik-plugin-cloudflare](https://github.com/Cyb3r-Jak3/traefik-plugin-cloudflare) - Plugin for restoring X-Forward headers for Traefik (2 days ago)
-- [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (3 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (5 days ago)
-- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (6 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (2 days ago)
+- [Cyb3r-Jak3/traefik-plugin-cloudflare](https://github.com/Cyb3r-Jak3/traefik-plugin-cloudflare) - Plugin for restoring X-Forward headers for Traefik (3 days ago)
+- [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (4 days ago)
+- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (6 days ago)
+- [Cyb3r-Jak3/uptime-stats](https://github.com/Cyb3r-Jak3/uptime-stats) - 📈 Uptime monitor and status page for Cyb3r Jak3, powered by @upptime (1 week ago)
 
 #### 📜 My recent blog posts
 
