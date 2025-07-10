@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 5 days ago) - Repo for my Cloudflared Helm Chart
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 6 days ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 6 days ago) - Repo for my Cloudflared Helm Chart
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 1 week ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [esnet/gdg](https://github.com/esnet/gdg) ([v0.8.1](https://github.com/esnet/gdg/releases/tag/v0.8.1), 1 week ago) - Grafana Dash-n-Grab
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.4.5](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.4.5), 3 weeks ago) - Helpful Cloudflare utility program 
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) ([v0.29.0](https://github.com/bwmarrin/discordgo/releases/tag/v0.29.0), 1 month ago) -  (Golang) Go bindings for Discord
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (5 days ago)
-- [Cyb3r-Jak3/traefik-plugin-cloudflare](https://github.com/Cyb3r-Jak3/traefik-plugin-cloudflare) - Plugin for restoring X-Forward headers for Traefik (6 days ago)
-- [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dash-n-Grab (6 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (6 days ago)
+- [Cyb3r-Jak3/traefik-plugin-cloudflare](https://github.com/Cyb3r-Jak3/traefik-plugin-cloudflare) - Plugin for restoring X-Forward headers for Traefik (1 week ago)
+- [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dash-n-Grab (1 week ago)
 - [Cyb3r-Jak3/tf-cloudflare-github-ips](https://github.com/Cyb3r-Jak3/tf-cloudflare-github-ips) - Seperate Repo that is used to maintain a list of GitHub IP list (1 week ago)
 
 #### 📜 My recent blog posts
