@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v1.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v1.1.1), 2 days ago) - Promethues exporter for RIPE atlas stats
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v1.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v1.1.1), 3 days ago) - Promethues exporter for RIPE atlas stats
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 2 weeks ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 2 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [esnet/gdg](https://github.com/esnet/gdg) ([v0.8.1](https://github.com/esnet/gdg/releases/tag/v0.8.1), 2 weeks ago) - Grafana Dash-n-Grab
@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (2 days ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (4 days ago)
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (3 days ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (5 days ago)
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 week ago)
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (2 weeks ago)
 - [Cyb3r-Jak3/traefik-plugin-cloudflare](https://github.com/Cyb3r-Jak3/traefik-plugin-cloudflare) - Plugin for restoring X-Forward headers for Traefik (2 weeks ago)
