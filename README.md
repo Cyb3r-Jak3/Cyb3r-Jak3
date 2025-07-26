@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) ([v1.0.4](https://github.com/Cyb3r-Jak3/go-discord-music/releases/tag/v1.0.4), 3 days ago) - Simple Discord Music Bot
+- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) ([v1.0.4](https://github.com/Cyb3r-Jak3/go-discord-music/releases/tag/v1.0.4), 4 days ago) - Simple Discord Music Bot
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v1.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v1.1.1), 1 week ago) - Promethues exporter for RIPE atlas stats
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 3 weeks ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 3 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NE-Collegiate-Cyber-Defense-League/website](https://github.com/NE-Collegiate-Cyber-Defense-League/website) - Source code for the NECCDL Website  (1 day ago)
-- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) - Simple Discord Music Bot (4 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (6 days ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (6 days ago)
-- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (6 days ago)
+- [NE-Collegiate-Cyber-Defense-League/website](https://github.com/NE-Collegiate-Cyber-Defense-League/website) - Source code for the NECCDL Website  (2 days ago)
+- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) - Simple Discord Music Bot (5 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 week ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (1 week ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 week ago)
 
 #### 📜 My recent blog posts
 
