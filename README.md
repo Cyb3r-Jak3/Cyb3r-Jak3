@@ -12,7 +12,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) ([v1.1.0](https://github.com/Cyb3r-Jak3/go-discord-music/releases/tag/v1.1.0), 1 week ago) - Simple Discord Music Bot
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v1.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v1.1.1), 2 weeks ago) - Promethues exporter for RIPE atlas stats
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v1.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v1.1.1), 3 weeks ago) - Promethues exporter for RIPE atlas stats
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 1 month ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 1 month ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [esnet/gdg](https://github.com/esnet/gdg) ([v0.8.1](https://github.com/esnet/gdg/releases/tag/v0.8.1), 1 month ago) - Grafana Dash-n-Grab
