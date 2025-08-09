@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.8.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.8.0), 1 day ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) ([v1.1.0](https://github.com/Cyb3r-Jak3/go-discord-music/releases/tag/v1.1.0), 1 week ago) - Simple Discord Music Bot
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v1.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v1.1.1), 3 weeks ago) - Promethues exporter for RIPE atlas stats
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.8](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.8), 1 month ago) - Repo for my Cloudflared Helm Chart
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.7.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.7.0), 1 month ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [esnet/gdg](https://github.com/esnet/gdg) ([v0.8.1](https://github.com/esnet/gdg/releases/tag/v0.8.1), 1 month ago) - Grafana Dash-n-Grab
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) - Simple Discord Music Bot (1 week ago)
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (1 week ago)
+- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) - Simple Discord Music Bot (2 weeks ago)
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (2 weeks ago)
 - [NE-Collegiate-Cyber-Defense-League/website](https://github.com/NE-Collegiate-Cyber-Defense-League/website) - Source code for the NECCDL Website  (2 weeks ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 weeks ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (2 weeks ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 weeks ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (3 weeks ago)
 
 #### 📜 My recent blog posts
 
