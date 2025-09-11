@@ -12,16 +12,16 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.10](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.10), 2 weeks ago) - Repo for my Cloudflared Helm Chart
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.8.1](https://github.com/cloudflare/cloudflared/releases/tag/2025.8.1), 2 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) ([v2.3.0](https://github.com/onedr0p/exportarr/releases/tag/v2.3.0), 4 weeks ago) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.8.1](https://github.com/cloudflare/cloudflared/releases/tag/2025.8.1), 3 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) ([v2.3.0](https://github.com/onedr0p/exportarr/releases/tag/v2.3.0), 1 month ago) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) ([v1.1.0](https://github.com/Cyb3r-Jak3/go-discord-music/releases/tag/v1.1.0), 1 month ago) - Simple Discord Music Bot
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v1.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v1.1.1), 1 month ago) - Promethues exporter for RIPE atlas stats
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
-- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (3 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (2 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
+- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (4 days ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (1 week ago)
 - [Cyb3r-Jak3/workers-world-dns-resolver](https://github.com/Cyb3r-Jak3/workers-world-dns-resolver) - Site to lookup DNS records globally (1 week ago)
 
