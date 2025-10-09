@@ -11,18 +11,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.6.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.6.0), 3 days ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.6.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.6.0), 4 days ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) ([v1](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils/releases/tag/v1), 1 week ago) - Actions for installing cloudflare-utils
 - [raylas/nextdns-exporter](https://github.com/raylas/nextdns-exporter) ([0.7.0](https://github.com/raylas/nextdns-exporter/releases/tag/0.7.0), 1 week ago) - Export NextDNS metrics
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.12](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.12), 1 week ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.12](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.12), 2 weeks ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.9.1](https://github.com/cloudflare/cloudflared/releases/tag/2025.9.1), 2 weeks ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 day ago)
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (4 days ago)
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (6 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (5 days ago)
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (1 week ago)
 - [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (1 week ago)
 
 #### 📜 My recent blog posts
