@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.10.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.10.0), 1 day ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.0.2](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.0.2), 3 days ago) - Promethues exporter for RIPE atlas stats
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.6.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.6.1), 5 days ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.13](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.13), 1 day ago) - Repo for my Cloudflared Helm Chart
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.10.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.10.0), 2 days ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.0.2](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.0.2), 4 days ago) - Promethues exporter for RIPE atlas stats
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.6.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.6.1), 6 days ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) ([v1](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils/releases/tag/v1), 2 weeks ago) - Actions for installing cloudflare-utils
-- [raylas/nextdns-exporter](https://github.com/raylas/nextdns-exporter) ([0.7.0](https://github.com/raylas/nextdns-exporter/releases/tag/0.7.0), 2 weeks ago) - Export NextDNS metrics
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (1 day ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 day ago)
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (3 days ago)
-- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (6 days ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (1 week ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (4 days ago)
 
 #### 📜 My recent blog posts
 
