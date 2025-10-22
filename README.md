@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.13](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.13), 6 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.13](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.13), 1 week ago) - Repo for my Cloudflared Helm Chart
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.10.0](https://github.com/cloudflare/cloudflared/releases/tag/2025.10.0), 1 week ago) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.0.2](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.0.2), 1 week ago) - Promethues exporter for RIPE atlas stats
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.6.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.6.1), 1 week ago) - Helpful Cloudflare utility program 
@@ -19,10 +19,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
-- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (6 days ago)
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (6 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (6 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
+- [Cyb3r-Jak3/renovate-configs](https://github.com/Cyb3r-Jak3/renovate-configs) - my common renovate configs (1 week ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (1 week ago)
 
 #### 📜 My recent blog posts
