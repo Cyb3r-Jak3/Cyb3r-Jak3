@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.16](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.16), 6 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.16](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.16), 1 week ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v3.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v3.0.0), 2 weeks ago) - Github Action to purge Cloudflare cache
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2025.11.1](https://github.com/cloudflare/cloudflared/releases/tag/2025.11.1), 1 month ago) - Cloudflare Tunnel client
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.0.2](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.0.2), 2 months ago) - Promethues exporter for RIPE atlas stats
@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (2 days ago)
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (6 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (3 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
 - [NE-Collegiate-Cyber-Defense-League/website](https://github.com/NE-Collegiate-Cyber-Defense-League/website) - Source code for the NECCDL Website  (1 week ago)
 - [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (2 weeks ago)
 
