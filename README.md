@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2026.1.2](https://github.com/cloudflare/cloudflared/releases/tag/2026.1.2), 4 days ago) - Cloudflare Tunnel client
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2026.1.2](https://github.com/cloudflare/cloudflared/releases/tag/2026.1.2), 5 days ago) - Cloudflare Tunnel client
 - [esnet/gdg](https://github.com/esnet/gdg) ([v0.9.2](https://github.com/esnet/gdg/releases/tag/v0.9.2), 2 weeks ago) - Grafana Dash-n-Grab
 - [terraform-iaac/terraform-kubernetes-cert-manager](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager) ([v3.2.1](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager/releases/tag/v3.2.1), 4 weeks ago) - Terraform module for Kubernetes Cert Manager
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.16](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.16), 1 month ago) - Repo for my Cloudflared Helm Chart
@@ -20,15 +20,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
-- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (2 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (3 days ago)
-- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (3 days ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (3 days ago)
+- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (3 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (4 days ago)
+- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (4 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (4 days ago)
 
 #### 📜 My recent blog posts
 
 - [R2 API Token Terraform Module](https://blog.cyberjake.xyz/post/2024-03-19-cloudflare-r2-terraform/) (2 years ago)
-- [Cloudflared DoH proxy](https://blog.cyberjake.xyz/post/2023-02-17-cloudflared-doh/) (2 years ago)
+- [Cloudflared DoH proxy](https://blog.cyberjake.xyz/post/2023-02-17-cloudflared-doh/) (3 years ago)
 - [Nginx &#43; R2](https://blog.cyberjake.xyz/post/2022-10-01-nginx-proxy-r2/) (3 years ago)
 - [Minecraft Server using Cloudflared](https://blog.cyberjake.xyz/post/2022-03-26-cloudflared-minecraft/) (3 years ago)
 - [New Status Site](https://blog.cyberjake.xyz/post/2021-09-27-status-site/) (4 years ago)
