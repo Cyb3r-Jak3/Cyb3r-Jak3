@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ([2026.3.0](https://github.com/cloudflare/cloudflared/releases/tag/2026.3.0), 3 weeks ago) - Cloudflare Tunnel client
 - [esnet/gdg](https://github.com/esnet/gdg) ([v0.9.3](https://github.com/esnet/gdg/releases/tag/v0.9.3), 4 weeks ago) - Grafana Dash-n-Grab
-- [terraform-iaac/terraform-kubernetes-cert-manager](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager) ([v3.2.1](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager/releases/tag/v3.2.1), 2 months ago) - Terraform module for Kubernetes Cert Manager
+- [terraform-iaac/terraform-kubernetes-cert-manager](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager) ([v3.2.1](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager/releases/tag/v3.2.1), 3 months ago) - Terraform module for Kubernetes Cert Manager
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.16](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.16), 3 months ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v3.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v3.0.0), 3 months ago) - Github Action to purge Cloudflare cache
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.0.2](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.0.2), 5 months ago) - Promethues exporter for RIPE atlas stats
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
+- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (1 day ago)
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
-- [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (3 days ago)
-- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (4 days ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 week ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 week ago)
+- [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (4 days ago)
+- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (5 days ago)
 
 #### 📜 My recent blog posts
 
