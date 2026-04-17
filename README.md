@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
-- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (4 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (4 days ago)
-- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (6 days ago)
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (1 week ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 day ago)
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (1 day ago)
+- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (1 day ago)
+- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (1 day ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (2 days ago)
 
 #### 📜 My recent blog posts
 
