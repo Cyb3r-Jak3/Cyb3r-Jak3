@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.17](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.17), 1 week ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.17](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.17), 2 weeks ago) - Repo for my Cloudflared Helm Chart
 - [esnet/gdg](https://github.com/esnet/gdg) ([v0.9.3](https://github.com/esnet/gdg/releases/tag/v0.9.3), 1 month ago) - Grafana Dash-n-Grab
 - [terraform-iaac/terraform-kubernetes-cert-manager](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager) ([v3.2.1](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager/releases/tag/v3.2.1), 3 months ago) - Terraform module for Kubernetes Cert Manager
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v3.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v3.0.0), 4 months ago) - Github Action to purge Cloudflare cache
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.0.2](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.0.2), 6 months ago) - Promethues exporter for RIPE atlas stats
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.6.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.6.1), 6 months ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (1 day ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
-- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (2 days ago)
-- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code for Cloudflare Workers (3 days ago)
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats (6 days ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (6 days ago)
+- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (3 days ago)
+- [Cyb3r-Jak3/workers-common](https://github.com/Cyb3r-Jak3/workers-common) - My common typescript code for Cloudflare Workers (4 days ago)
 
 #### 📜 My recent blog posts
 
