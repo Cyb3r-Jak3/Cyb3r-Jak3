@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (2 days ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (3 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
-- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (6 days ago)
-- [Cyb3r-Jak3/workers-serverless-api](https://github.com/Cyb3r-Jak3/workers-serverless-api) - Typescript version of my API running on Cloudflare Workers (6 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 day ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
+- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (1 day ago)
+- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (1 day ago)
 
 #### 📜 My recent blog posts
 
