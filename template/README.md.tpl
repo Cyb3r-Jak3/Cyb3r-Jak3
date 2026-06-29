@@ -3,7 +3,7 @@
 #### 📫 How to reach me:
   - Twitter: [@Cyb3r_Jak3](https://twitter.com/Cyb3r_Jak3)
   - ✉️ git@cyberjake.xyz
-    - [PGP key](https://gist.githubusercontent.com/Cyb3r-Jak3/d1068b61b50239b171faf018a0269f67/raw/b876db002e6b0630795382c0b9134771ffa5fe3a/cyb3rjak3@pm.me.asc)
+    - [PGP key](https://cyberjake.xyz/files/connect@cyberjake.xyz.asc)
 
 
 #### 👯 I’m looking to collaborate on any project as I like diving into new topics. Please reach out to me to collaborate.
