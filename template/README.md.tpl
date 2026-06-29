@@ -26,11 +26,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://blog.cyberjake.xyz/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 
 #### 📊 Statistics
 ![Cyb3r-Jak3's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3r-Jak3&theme=cobalt&hide=css,html,scss)
