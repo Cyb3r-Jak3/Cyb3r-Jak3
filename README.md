@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.20](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.20), 3 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.20](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.20), 4 days ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.1.1), 1 month ago) - Promethues exporter for RIPE atlas stats
-- [esnet/gdg](https://github.com/esnet/gdg) ([v0.9.3](https://github.com/esnet/gdg/releases/tag/v0.9.3), 3 months ago) - Grafana Dash-n-Grab
+- [esnet/gdg](https://github.com/esnet/gdg) ([v0.9.3](https://github.com/esnet/gdg/releases/tag/v0.9.3), 4 months ago) - Grafana Dash-n-Grab
 - [terraform-iaac/terraform-kubernetes-cert-manager](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager) ([v3.2.1](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager/releases/tag/v3.2.1), 6 months ago) - Terraform module for Kubernetes Cert Manager
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v3.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v3.0.0), 6 months ago) - Github Action to purge Cloudflare cache
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (1 day ago)
 - [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
-- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (2 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (3 days ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (3 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
+- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (3 days ago)
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) - Repo for my Cloudflared Helm Chart (4 days ago)
 
 
 #### 📊 Statistics
