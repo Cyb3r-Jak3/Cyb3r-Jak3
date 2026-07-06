@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.20](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.20), 6 days ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.20](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.20), 1 week ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.1.1), 1 month ago) - Promethues exporter for RIPE atlas stats
 - [terraform-iaac/terraform-kubernetes-cert-manager](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager) ([v3.2.1](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager/releases/tag/v3.2.1), 6 months ago) - Terraform module for Kubernetes Cert Manager
-- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v3.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v3.0.0), 6 months ago) - Github Action to purge Cloudflare cache
+- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v3.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v3.0.0), 7 months ago) - Github Action to purge Cloudflare cache
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.6.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.6.1), 8 months ago) - Helpful Cloudflare utility program 
 
 #### 👷 Check out what I'm currently working on
 
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (1 day ago)
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (2 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (2 days ago)
-- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (5 days ago)
+- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (2 days ago)
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) - Helpful Cloudflare utility program  (3 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (3 days ago)
+- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (6 days ago)
 
 
 #### 📊 Statistics
