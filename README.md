@@ -20,10 +20,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
-- [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (2 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (3 days ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (5 days ago)
-- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (5 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
+- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (1 day ago)
+- [Cyb3r-Jak3/common-go](https://github.com/Cyb3r-Jak3/common-go) - Common code that I use for my go programs (1 day ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
 
 
 #### 📊 Statistics
