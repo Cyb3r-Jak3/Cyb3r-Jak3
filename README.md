@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.8.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.8.1), 4 days ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.8.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.8.1), 5 days ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.20](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.20), 1 month ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.1.1), 2 months ago) - Promethues exporter for RIPE atlas stats
 - [terraform-iaac/terraform-kubernetes-cert-manager](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager) ([v3.2.1](https://github.com/terraform-iaac/terraform-kubernetes-cert-manager/releases/tag/v3.2.1), 7 months ago) - Terraform module for Kubernetes Cert Manager
@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (2 days ago)
-- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (3 days ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (3 days ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (4 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (3 days ago)
+- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (4 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (4 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (4 days ago)
+- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (5 days ago)
 
 
 #### 📊 Statistics
