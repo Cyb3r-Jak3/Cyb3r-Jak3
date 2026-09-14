@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils/releases/tag/v2.0.0), 4 days ago) - Actions for installing cloudflare-utils
-- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v4.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v4.0.0), 4 weeks ago) - Github Action to purge Cloudflare cache
-- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.9.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.9.0), 4 weeks ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils/releases/tag/v2.0.0), 5 days ago) - Actions for installing cloudflare-utils
+- [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v4.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v4.0.0), 1 month ago) - Github Action to purge Cloudflare cache
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.9.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.9.0), 1 month ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.20](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.20), 2 months ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.1.1](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.1.1), 3 months ago) - Promethues exporter for RIPE atlas stats
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (1 day ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (1 day ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (1 day ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
-- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
+- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (2 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
+- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (2 days ago)
+- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (2 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (3 days ago)
 
 
 #### 📊 Statistics
