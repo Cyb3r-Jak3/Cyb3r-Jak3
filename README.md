@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/yahoo-fantasy-auth-server](https://github.com/Cyb3r-Jak3/yahoo-fantasy-auth-server) ([v0.0.3](https://github.com/Cyb3r-Jak3/yahoo-fantasy-auth-server/releases/tag/v0.0.3), 1 day ago) - 
+- [Cyb3r-Jak3/yahoo-fantasy-auth-server](https://github.com/Cyb3r-Jak3/yahoo-fantasy-auth-server) ([v0.0.3](https://github.com/Cyb3r-Jak3/yahoo-fantasy-auth-server/releases/tag/v0.0.3), 2 days ago) - 
 - [Cyb3r-Jak3/go-grpc-proxy](https://github.com/Cyb3r-Jak3/go-grpc-proxy) ([v0.0.1](https://github.com/Cyb3r-Jak3/go-grpc-proxy/releases/tag/v0.0.1), 1 week ago) - Example project of using a 3 way GRPC proxy service
 - [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils/releases/tag/v2.0.0), 1 month ago) - Actions for installing cloudflare-utils
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v4.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v4.0.0), 2 months ago) - Github Action to purge Cloudflare cache
@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) - Simple Discord Music Bot (1 day ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (1 day ago)
-- [Cyb3r-Jak3/yahoo-fantasy-auth-server](https://github.com/Cyb3r-Jak3/yahoo-fantasy-auth-server) -  (1 day ago)
-- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (1 day ago)
+- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) - Simple Discord Music Bot (2 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (2 days ago)
+- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (2 days ago)
+- [Cyb3r-Jak3/yahoo-fantasy-auth-server](https://github.com/Cyb3r-Jak3/yahoo-fantasy-auth-server) -  (2 days ago)
+- [Cyb3r-Jak3/cf-community-content](https://github.com/Cyb3r-Jak3/cf-community-content) - Collection of my examples for the Cloudflare community (2 days ago)
 
 
 #### 📊 Statistics
