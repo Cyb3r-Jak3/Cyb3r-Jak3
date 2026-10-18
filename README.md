@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Cyb3r-Jak3/github-actions-logger](https://github.com/Cyb3r-Jak3/github-actions-logger) ([v0.0.1](https://github.com/Cyb3r-Jak3/github-actions-logger/releases/tag/v0.0.1), 1 day ago) - Python logger which formats to GitHub Actions
 - [Cyb3r-Jak3/go-grpc-proxy](https://github.com/Cyb3r-Jak3/go-grpc-proxy) ([v0.0.1](https://github.com/Cyb3r-Jak3/go-grpc-proxy/releases/tag/v0.0.1), 1 week ago) - Example project of using a 3 way GRPC proxy service
 - [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils/releases/tag/v2.0.0), 1 month ago) - Actions for installing cloudflare-utils
 - [Cyb3r-Jak3/action-cloudflare-cache](https://github.com/Cyb3r-Jak3/action-cloudflare-cache) ([v4.0.0](https://github.com/Cyb3r-Jak3/action-cloudflare-cache/releases/tag/v4.0.0), 2 months ago) - Github Action to purge Cloudflare cache
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.9.0](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.9.0), 2 months ago) - Helpful Cloudflare utility program 
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.20](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.20), 3 months ago) - Repo for my Cloudflared Helm Chart
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (1 day ago)
+- [Cyb3r-Jak3/github-actions-logger](https://github.com/Cyb3r-Jak3/github-actions-logger) - Python logger which formats to GitHub Actions (1 day ago)
 - [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (1 day ago)
-- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (1 day ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (2 days ago)
-- [Cyb3r-Jak3/cf-example-cors-application](https://github.com/Cyb3r-Jak3/cf-example-cors-application) - Example for CORs on two sites using Cloudflare access (2 days ago)
+- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (2 days ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
+- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (2 days ago)
 
 
 #### 📊 Statistics
