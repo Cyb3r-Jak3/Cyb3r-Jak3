@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.2.0](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.2.0), 6 days ago) - Promethues exporter for RIPE atlas stats
+- [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.9.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.9.1), 1 day ago) - Helpful Cloudflare utility program 
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.2.0](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.2.0), 1 week ago) - Promethues exporter for RIPE atlas stats
 - [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.21](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.21), 1 week ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/github-actions-logger](https://github.com/Cyb3r-Jak3/github-actions-logger) ([v0.0.1](https://github.com/Cyb3r-Jak3/github-actions-logger/releases/tag/v0.0.1), 1 week ago) - Python logger which formats to GitHub Actions
 - [Cyb3r-Jak3/go-grpc-proxy](https://github.com/Cyb3r-Jak3/go-grpc-proxy) ([v0.0.1](https://github.com/Cyb3r-Jak3/go-grpc-proxy/releases/tag/v0.0.1), 3 weeks ago) - Example project of using a 3 way GRPC proxy service
-- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) ([v2.0.0](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils/releases/tag/v2.0.0), 1 month ago) - Actions for installing cloudflare-utils
 
 #### 👷 Check out what I'm currently working on
 
-- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (1 day ago)
-- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (1 day ago)
-- [Cyb3r-Jak3/worker-sharex-r2](https://github.com/Cyb3r-Jak3/worker-sharex-r2) - Cloudflare Worker for uploading sharex files (1 day ago)
-- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (1 day ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (3 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (1 day ago)
+- [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (1 day ago)
+- [Cyb3r-Jak3/gh-oidc-worker](https://github.com/Cyb3r-Jak3/gh-oidc-worker) - Worker for triggering GitHub workflows via OIDC (2 days ago)
+- [Cyb3r-Jak3/actions-cloudflare-utils](https://github.com/Cyb3r-Jak3/actions-cloudflare-utils) - Actions for installing cloudflare-utils (2 days ago)
+- [Cyb3r-Jak3/cloudflare-utils-headless-oauth](https://github.com/Cyb3r-Jak3/cloudflare-utils-headless-oauth) -  (2 days ago)
 
 
 #### 📊 Statistics
