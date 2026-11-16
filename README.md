@@ -11,19 +11,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Cyb3r-Jak3/terraform-provider-cidrmath](https://github.com/Cyb3r-Jak3/terraform-provider-cidrmath) ([v0.1.1](https://github.com/Cyb3r-Jak3/terraform-provider-cidrmath/releases/tag/v0.1.1), 5 days ago) - 
-- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) ([v1.2.1](https://github.com/Cyb3r-Jak3/go-discord-music/releases/tag/v1.2.1), 6 days ago) - Simple Discord Music Bot
-- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.23](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.23), 1 week ago) - Repo for my Cloudflared Helm Chart
+- [Cyb3r-Jak3/terraform-provider-cidrmath](https://github.com/Cyb3r-Jak3/terraform-provider-cidrmath) ([v0.1.1](https://github.com/Cyb3r-Jak3/terraform-provider-cidrmath/releases/tag/v0.1.1), 6 days ago) - 
+- [Cyb3r-Jak3/go-discord-music](https://github.com/Cyb3r-Jak3/go-discord-music) ([v1.2.1](https://github.com/Cyb3r-Jak3/go-discord-music/releases/tag/v1.2.1), 1 week ago) - Simple Discord Music Bot
+- [Cyb3r-Jak3/helm-cloudflared](https://github.com/Cyb3r-Jak3/helm-cloudflared) ([cloudflared-0.3.23](https://github.com/Cyb3r-Jak3/helm-cloudflared/releases/tag/cloudflared-0.3.23), 2 weeks ago) - Repo for my Cloudflared Helm Chart
 - [Cyb3r-Jak3/cloudflare-utils](https://github.com/Cyb3r-Jak3/cloudflare-utils) ([v1.9.1](https://github.com/Cyb3r-Jak3/cloudflare-utils/releases/tag/v1.9.1), 2 weeks ago) - Helpful Cloudflare utility program 
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) ([v2.2.0](https://github.com/Cyb3r-Jak3/atlas-stats-exporter/releases/tag/v2.2.0), 3 weeks ago) - Promethues exporter for RIPE atlas stats
 
 #### 👷 Check out what I'm currently working on
 
+- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (1 day ago)
+- [Cyb3r-Jak3/worker-echo](https://github.com/Cyb3r-Jak3/worker-echo) - Simple worker to echo requests no matter the host (2 days ago)
 - [Cyb3r-Jak3/github-actions-runner](https://github.com/Cyb3r-Jak3/github-actions-runner) - My GitHub Actions runner image for my self-hosted runners (2 days ago)
-- [Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway](https://github.com/Cyb3r-Jak3/lms-plugin-cloudflare-ai-gateway) - LM Studio plugin to connet to Cloudflare&#39;s AI Gateway (2 days ago)
-- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (2 days ago)
-- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (5 days ago)
-- [Cyb3r-Jak3/terraform-provider-cidrmath](https://github.com/Cyb3r-Jak3/terraform-provider-cidrmath) -  (6 days ago)
+- [Cyb3r-Jak3/workers-har-analysis](https://github.com/Cyb3r-Jak3/workers-har-analysis) - Cloudflare Workers rewrite of my har tool (3 days ago)
+- [Cyb3r-Jak3/docker-unbound-exporter](https://github.com/Cyb3r-Jak3/docker-unbound-exporter) - Docker image for running https://github.com/letsencrypt/unbound_exporter (6 days ago)
 
 
 #### 📊 Statistics
